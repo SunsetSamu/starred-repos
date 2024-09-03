@@ -193,7 +193,6 @@
 - [AiekDev/vscode-win7](https://github.com/AiekDev/vscode-win7) - VSCode - Windows 7 & 8
 - [drewdru/ponyTown](https://github.com/drewdru/ponyTown) - Fork of pony.town (https://pony.town/about)
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
-- [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [CowCoding0/Gartic-Phone-Draw-Bot](https://github.com/CowCoding0/Gartic-Phone-Draw-Bot) - Drawing Bot for Gartic Phone
 - [Windows200000/TwitchDropsMiner-updated](https://github.com/Windows200000/TwitchDropsMiner-updated) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
