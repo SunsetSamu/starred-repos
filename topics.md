@@ -12,6 +12,7 @@
 - [awesome-list](#awesome-list)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [c](#c)
 - [css](#css)
 - [discord](#discord)
 - [electron](#electron)
@@ -80,6 +81,10 @@
 ## bot 
 
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+
+## c 
+
+- [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 
 ## css 
 
@@ -166,6 +171,7 @@
 
 ## music 
 
+- [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
 
 ## open-source 
@@ -174,6 +180,7 @@
 
 ## others 
 
+- [Infinicraft-Mod/infinicraft](https://github.com/Infinicraft-Mod/infinicraft) - Minecraft Infinicraft mod
 - [zii/netscape](https://github.com/zii/netscape) - Mirror of Netscape 5.0 source code
 - [deathau/csv-obsidian](https://github.com/deathau/csv-obsidian) - Edit CSV Files in Obsidian
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
@@ -206,6 +213,7 @@
 
 ## python 
 
+- [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [AlexFlipnote/OsuKeyboard](https://github.com/AlexFlipnote/OsuKeyboard) - A nice little software that simulates the typing sound from Osu!
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
