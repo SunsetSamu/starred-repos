@@ -204,7 +204,7 @@
 - [CowCoding0/Gartic-Phone-Draw-Bot](https://github.com/CowCoding0/Gartic-Phone-Draw-Bot) - Drawing Bot for Gartic Phone
 - [Windows200000/TwitchDropsMiner-updated](https://github.com/Windows200000/TwitchDropsMiner-updated) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [daisyUniverse/WTFNONPL](https://github.com/daisyUniverse/WTFNONPL) - DO WHAT THE FUCK YOU WANT TO EXCEPT USE NFTS PUBLIC LICENSE
-- [SecretAgencyClubPenguin/ClubPenguinClient](https://github.com/SecretAgencyClubPenguin/ClubPenguinClient) - Custom club penguin client, user-friendly and modifcable for all private servers
+- [VyrekXD/ClubPenguinClient](https://github.com/VyrekXD/ClubPenguinClient) - Custom club penguin client, user-friendly and modifcable for all private servers
 - [solero/houdini](https://github.com/solero/houdini) - A Club Penguin private server written in Python 3
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.
 - [EyeOdin/Pigment.O](https://github.com/EyeOdin/Pigment.O) - Krita - Plugin - Color Picker and Mixer
