@@ -22,6 +22,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -126,6 +127,10 @@
 ## SCSS 
 
 - [bennettfeely/ztext](https://github.com/bennettfeely/ztext) - Easy to implement, 3D typography for the web. Works with every font.
+
+## Shell 
+
+- [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE) - 
 
 ## TypeScript 
 
