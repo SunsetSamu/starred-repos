@@ -180,6 +180,7 @@
 
 ## others 
 
+- [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE) - 
 - [Infinicraft-Mod/infinicraft](https://github.com/Infinicraft-Mod/infinicraft) - Minecraft Infinicraft mod
 - [zii/netscape](https://github.com/zii/netscape) - Mirror of Netscape 5.0 source code
 - [deathau/csv-obsidian](https://github.com/deathau/csv-obsidian) - Edit CSV Files in Obsidian
