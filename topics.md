@@ -35,6 +35,7 @@
 - [music](#music)
 - [open-source](#open-source)
 - [others](#others)
+- [powershell](#powershell)
 - [python](#python)
 - [react](#react)
 - [ruby](#ruby)
@@ -211,6 +212,10 @@
 - [EyeOdin/Pigment.O](https://github.com/EyeOdin/Pigment.O) - Krita - Plugin - Color Picker and Mixer
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
+
+## powershell 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## python 
 
