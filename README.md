@@ -13,6 +13,7 @@
 - [Elixir](#elixir)
 - [GLSL](#glsl)
 - [Go](#go)
+- [HLSL](#hlsl)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
@@ -62,6 +63,10 @@
 
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+
+## HLSL 
+
+- [GarrettGunnell/AcerolaFX](https://github.com/GarrettGunnell/AcerolaFX) - A suite of GShade shaders for Final Fantasy XIV
 
 ## Java 
 
@@ -130,6 +135,7 @@
 
 ## Shell 
 
+- [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
 - [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE) - 
 
 ## TypeScript 
