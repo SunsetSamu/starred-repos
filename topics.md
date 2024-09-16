@@ -42,6 +42,7 @@
 - [rust](#rust)
 - [software](#software)
 - [terminal](#terminal)
+- [termux](#termux)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vue](#vue)
@@ -181,6 +182,7 @@
 
 ## others 
 
+- [GarrettGunnell/AcerolaFX](https://github.com/GarrettGunnell/AcerolaFX) - A suite of GShade shaders for Final Fantasy XIV
 - [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE) - 
 - [Infinicraft-Mod/infinicraft](https://github.com/Infinicraft-Mod/infinicraft) - Minecraft Infinicraft mod
 - [zii/netscape](https://github.com/zii/netscape) - Mirror of Netscape 5.0 source code
@@ -245,6 +247,10 @@
 ## terminal 
 
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
+
+## termux 
+
+- [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
 
 ## twitter 
 
