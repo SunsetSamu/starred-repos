@@ -13,6 +13,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [cli](#cli)
 - [css](#css)
 - [discord](#discord)
 - [electron](#electron)
@@ -66,12 +67,14 @@
 
 ## awesome 
 
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [fluteds/starred](https://github.com/fluteds/starred) - All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow and sorted in the project's language order
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 
 ## awesome-list 
 
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [fluteds/starred](https://github.com/fluteds/starred) - All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow and sorted in the project's language order
@@ -87,6 +90,11 @@
 ## c 
 
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
+
+## cli 
+
+- [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 
 ## css 
 
@@ -156,6 +164,7 @@
 
 ## linux 
 
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
 
@@ -173,6 +182,7 @@
 
 ## music 
 
+- [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
 
@@ -192,7 +202,6 @@
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [bartbes/lovelybigplanet](https://github.com/bartbes/lovelybigplanet) - A lua implementation of LittleBigPlanet created with LÖVE.
-- [Nikos1001/lbp](https://github.com/Nikos1001/lbp) - A LittleBigPlanet style engine
 - [LittleBigPlanetHome/LittleBigPlanetHome](https://github.com/LittleBigPlanetHome/LittleBigPlanetHome) - The semi-official open-source repository of the LBP fan game LittleBigPlanet Home.
 - [Nomkid/littlebiglogic](https://github.com/Nomkid/littlebiglogic) - Knowledgebase of LittleBigPlanet logic-related things.
 - [jackcaver/PLGarage](https://github.com/jackcaver/PLGarage) - Open-source server software for LittleBigPlanet Karting and ModNation Racers.
@@ -223,7 +232,6 @@
 
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [AlexFlipnote/OsuKeyboard](https://github.com/AlexFlipnote/OsuKeyboard) - A nice little software that simulates the typing sound from Osu!
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 
 ## react 
@@ -241,11 +249,11 @@
 
 ## software 
 
-- [AlexFlipnote/OsuKeyboard](https://github.com/AlexFlipnote/OsuKeyboard) - A nice little software that simulates the typing sound from Osu!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## terminal 
 
+- [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 
 ## termux 
