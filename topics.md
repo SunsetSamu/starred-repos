@@ -211,14 +211,13 @@
 - [bennettfeely/ztext](https://github.com/bennettfeely/ztext) - Easy to implement, 3D typography for the web. Works with every font.
 - [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python and HTML
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
-- [AiekDev/vscode-win7](https://github.com/AiekDev/vscode-win7) - VSCode - Windows 7 & 8
 - [drewdru/ponyTown](https://github.com/drewdru/ponyTown) - Fork of pony.town (https://pony.town/about)
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [CowCoding0/Gartic-Phone-Draw-Bot](https://github.com/CowCoding0/Gartic-Phone-Draw-Bot) - Drawing Bot for Gartic Phone
 - [Windows200000/TwitchDropsMiner-updated](https://github.com/Windows200000/TwitchDropsMiner-updated) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [daisyUniverse/WTFNONPL](https://github.com/daisyUniverse/WTFNONPL) - DO WHAT THE FUCK YOU WANT TO EXCEPT USE NFTS PUBLIC LICENSE
-- [VyrekXD/ClubPenguinClient](https://github.com/VyrekXD/ClubPenguinClient) - Custom club penguin client, user-friendly and modifcable for all private servers
+- [milosworks/ClubPenguinClient](https://github.com/milosworks/ClubPenguinClient) - Custom club penguin client, user-friendly and modifcable for all private servers
 - [solero/houdini](https://github.com/solero/houdini) - A Club Penguin private server written in Python 3
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.
 - [EyeOdin/Pigment.O](https://github.com/EyeOdin/Pigment.O) - Krita - Plugin - Color Picker and Mixer
