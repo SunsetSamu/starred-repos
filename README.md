@@ -72,7 +72,7 @@
 - [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - #StandWithUkraine banner and related documents
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons) - System UIcons is an icon library design for systems and products. Use how you want, without attribution.
-- [VyrekXD/ClubPenguinClient](https://github.com/VyrekXD/ClubPenguinClient) - Custom club penguin client, user-friendly and modifcable for all private servers
+- [milosworks/ClubPenguinClient](https://github.com/milosworks/ClubPenguinClient) - Custom club penguin client, user-friendly and modifcable for all private servers
 
 ## Kotlin 
 
@@ -88,7 +88,6 @@
 
 - [Nomkid/littlebiglogic](https://github.com/Nomkid/littlebiglogic) - Knowledgebase of LittleBigPlanet logic-related things.
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
-- [AiekDev/vscode-win7](https://github.com/AiekDev/vscode-win7) - VSCode - Windows 7 & 8
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [fluteds/starred](https://github.com/fluteds/starred) - All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow and sorted in the project's language order
