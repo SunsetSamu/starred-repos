@@ -33,6 +33,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [microsoft](#microsoft)
+- [minecraft](#minecraft)
 - [music](#music)
 - [open-source](#open-source)
 - [others](#others)
@@ -180,6 +181,10 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
+## minecraft 
+
+- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+
 ## music 
 
 - [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal
@@ -245,6 +250,7 @@
 
 ## rust 
 
+- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast
 
 ## software 
