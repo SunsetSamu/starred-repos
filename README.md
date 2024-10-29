@@ -6,6 +6,7 @@
 ## Contents
 
 - [Batchfile](#batchfile)
+- [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
@@ -29,6 +30,10 @@
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
+## C 
+
+- [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)
 
 ## C# # 
 
@@ -96,7 +101,7 @@
 
 ## Python 
 
-- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
+- [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [Infinicraft-Mod/infinicraft](https://github.com/Infinicraft-Mod/infinicraft) - Minecraft Infinicraft mod
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
