@@ -47,6 +47,7 @@
 - [termux](#termux)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [virtual-reality](#virtual-reality)
 - [vue](#vue)
 - [web-development](#web-development)
 - [website](#website)
@@ -55,6 +56,7 @@
 
 ## android 
 
+- [alvr-org/PhoneVR](https://github.com/alvr-org/PhoneVR) - Use Steam VR-enabled applications with your phone as HMD (Head-mounted display). The only Open-Source solution to similar commercial packages like VRidge, iVRy, Trinus etc etc.
 - [Wavesonics/hammer-editor](https://github.com/Wavesonics/hammer-editor) - A simple tool for building stories.
 - [atouu/rekuta](https://github.com/atouu/rekuta) - A simple UTAU voicebank recorder app for android.
 
@@ -197,6 +199,7 @@
 
 ## others 
 
+- [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)
 - [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - #StandWithUkraine banner and related documents
 - [GarrettGunnell/AcerolaFX](https://github.com/GarrettGunnell/AcerolaFX) - A suite of GShade shaders for Final Fantasy XIV
@@ -274,6 +277,10 @@
 ## typescript 
 
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
+
+## virtual-reality 
+
+- [alvr-org/PhoneVR](https://github.com/alvr-org/PhoneVR) - Use Steam VR-enabled applications with your phone as HMD (Head-mounted display). The only Open-Source solution to similar commercial packages like VRidge, iVRy, Trinus etc etc.
 
 ## vue 
 
