@@ -18,6 +18,7 @@
 - [discord](#discord)
 - [electron](#electron)
 - [elixir](#elixir)
+- [framework](#framework)
 - [game-development](#game-development)
 - [gamedev](#gamedev)
 - [github](#github)
@@ -25,11 +26,13 @@
 - [go](#go)
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
+- [homebrew](#homebrew)
 - [html](#html)
 - [javascript](#javascript)
 - [jquery](#jquery)
 - [kotlin](#kotlin)
 - [linux](#linux)
+- [lua](#lua)
 - [macos](#macos)
 - [markdown](#markdown)
 - [microsoft](#microsoft)
@@ -117,6 +120,10 @@
 
 - [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
 
+## framework 
+
+- [HTV04/wiilove](https://github.com/HTV04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
+
 ## game-development 
 
 - [jdriselvato/NDS-Homebrew-Development](https://github.com/jdriselvato/NDS-Homebrew-Development) - My research for developing on the Nintendo DS
@@ -148,6 +155,10 @@
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
 
+## homebrew 
+
+- [HTV04/wiilove](https://github.com/HTV04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
+
 ## html 
 
 - [cicirello/generate-sitemap](https://github.com/cicirello/generate-sitemap) - Generate an XML sitemap for a GitHub Pages site using GitHub Actions
@@ -171,6 +182,10 @@
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [Vhonowslend/StreamFX-Public](https://github.com/Vhonowslend/StreamFX-Public) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
+
+## lua 
+
+- [HTV04/wiilove](https://github.com/HTV04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
 
 ## macos 
 
