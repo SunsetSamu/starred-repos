@@ -15,6 +15,7 @@
 - [c](#c)
 - [cli](#cli)
 - [css](#css)
+- [deployment](#deployment)
 - [discord](#discord)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -28,6 +29,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
 - [html](#html)
+- [instagram](#instagram)
 - [javascript](#javascript)
 - [jquery](#jquery)
 - [kotlin](#kotlin)
@@ -53,6 +55,7 @@
 - [virtual-reality](#virtual-reality)
 - [vue](#vue)
 - [web-development](#web-development)
+- [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
@@ -105,6 +108,10 @@
 ## css 
 
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
+
+## deployment 
+
+- [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 
 ## discord 
 
@@ -165,6 +172,10 @@
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
 
+## instagram 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
 ## javascript 
 
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
@@ -205,6 +216,7 @@
 
 ## music 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
@@ -215,6 +227,7 @@
 
 ## others 
 
+- [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
 - [SLMP-Team/SLMP](https://github.com/SLMP-Team/SLMP) - OpenSource GTA: San Andreas Multiplayer based on Lua Language
 - [EvanatorM/ScuffedMinecraft](https://github.com/EvanatorM/ScuffedMinecraft) - A Minecraft Clone in C++
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
@@ -263,6 +276,7 @@
 
 ## react 
 
+- [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
 
 ## ruby 
@@ -290,6 +304,7 @@
 
 ## twitter 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [DavidBuchanan314/tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) - Pack up to 3MB of data into a tweetable PNG polyglot file.
 
 ## typescript 
@@ -308,6 +323,10 @@
 ## web-development 
 
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
+
+## webapp 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## website 
 
