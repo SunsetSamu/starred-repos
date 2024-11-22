@@ -129,7 +129,7 @@
 
 ## framework 
 
-- [HTV04/wiilove](https://github.com/HTV04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
+- [htv04/wiilove](https://github.com/htv04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
 
 ## game-development 
 
@@ -164,7 +164,7 @@
 
 ## homebrew 
 
-- [HTV04/wiilove](https://github.com/HTV04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
+- [htv04/wiilove](https://github.com/htv04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
 
 ## html 
 
@@ -196,7 +196,7 @@
 
 ## lua 
 
-- [HTV04/wiilove](https://github.com/HTV04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
+- [htv04/wiilove](https://github.com/htv04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
 
 ## macos 
 
