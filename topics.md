@@ -29,7 +29,6 @@
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
 - [html](#html)
-- [instagram](#instagram)
 - [javascript](#javascript)
 - [jquery](#jquery)
 - [kotlin](#kotlin)
@@ -48,6 +47,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [software](#software)
+- [svelte](#svelte)
 - [terminal](#terminal)
 - [termux](#termux)
 - [twitter](#twitter)
@@ -172,12 +172,9 @@
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
 
-## instagram 
-
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
 ## javascript 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
 
 ## jquery 
@@ -293,6 +290,10 @@
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
+## svelte 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
 ## terminal 
 
 - [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal
@@ -309,6 +310,7 @@
 
 ## typescript 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
 
 ## virtual-reality 
