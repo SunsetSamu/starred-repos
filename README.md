@@ -54,6 +54,7 @@
 
 ## CSS 
 
+- [SunsetSamu/sunsetsamu.github.io](https://github.com/SunsetSamu/sunsetsamu.github.io) - My own site in the Indie Web, with some little tools for tooling things
 - [themesberg/windows-95-ui-kit](https://github.com/themesberg/windows-95-ui-kit) - 💾   Windows 95 UI Kit made with Bootstrap 4 components
 
 ## Elixir 
@@ -93,7 +94,6 @@
 
 - [SLMP-Team/SLMP](https://github.com/SLMP-Team/SLMP) - OpenSource GTA: San Andreas Multiplayer based on Lua Language
 - [jdriselvato/NDS-Homebrew-Development](https://github.com/jdriselvato/NDS-Homebrew-Development) - My research for developing on the Nintendo DS
-- [bartbes/lovelybigplanet](https://github.com/bartbes/lovelybigplanet) - A lua implementation of LittleBigPlanet created with LÖVE.
 
 ## Others 
 
