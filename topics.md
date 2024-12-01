@@ -224,6 +224,7 @@
 
 ## others 
 
+- [SunsetSamu/sunsetsamu.github.io](https://github.com/SunsetSamu/sunsetsamu.github.io) - My own site in the Indie Web, with some little tools for tooling things
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
 - [SLMP-Team/SLMP](https://github.com/SLMP-Team/SLMP) - OpenSource GTA: San Andreas Multiplayer based on Lua Language
 - [EvanatorM/ScuffedMinecraft](https://github.com/EvanatorM/ScuffedMinecraft) - A Minecraft Clone in C++
@@ -239,7 +240,6 @@
 - [Devsfy/wiregui](https://github.com/Devsfy/wiregui) - A graphical user interface for wireguard (client-side) for linux and windows
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
-- [bartbes/lovelybigplanet](https://github.com/bartbes/lovelybigplanet) - A lua implementation of LittleBigPlanet created with LÖVE.
 - [LittleBigPlanetHome/LittleBigPlanetHome](https://github.com/LittleBigPlanetHome/LittleBigPlanetHome) - The semi-official open-source repository of the LBP fan game LittleBigPlanet Home.
 - [Nomkid/littlebiglogic](https://github.com/Nomkid/littlebiglogic) - Knowledgebase of LittleBigPlanet logic-related things.
 - [jackcaver/PLGarage](https://github.com/jackcaver/PLGarage) - Open-source server software for LittleBigPlanet Karting and ModNation Racers.
