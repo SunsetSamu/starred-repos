@@ -62,7 +62,7 @@
 
 ## android 
 
-- [alvr-org/PhoneVR](https://github.com/alvr-org/PhoneVR) - Use Steam VR-enabled applications with your phone as HMD (Head-mounted display). The only Open-Source solution to similar commercial packages like VRidge, iVRy, Trinus etc etc.
+- [PhoneVR-Developers/PhoneVR](https://github.com/PhoneVR-Developers/PhoneVR) - Use Steam VR-enabled applications with your phone as HMD (Head-mounted display). The only Open-Source solution to similar commercial packages like VRidge, iVRy, Trinus etc etc.
 - [Wavesonics/hammer-editor](https://github.com/Wavesonics/hammer-editor) - A simple tool for building stories.
 - [atouu/rekuta](https://github.com/atouu/rekuta) - A simple UTAU voicebank recorder app for android.
 
@@ -315,7 +315,7 @@
 
 ## virtual-reality 
 
-- [alvr-org/PhoneVR](https://github.com/alvr-org/PhoneVR) - Use Steam VR-enabled applications with your phone as HMD (Head-mounted display). The only Open-Source solution to similar commercial packages like VRidge, iVRy, Trinus etc etc.
+- [PhoneVR-Developers/PhoneVR](https://github.com/PhoneVR-Developers/PhoneVR) - Use Steam VR-enabled applications with your phone as HMD (Head-mounted display). The only Open-Source solution to similar commercial packages like VRidge, iVRy, Trinus etc etc.
 
 ## vue 
 
