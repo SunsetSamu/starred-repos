@@ -47,6 +47,7 @@
 - [react](#react)
 - [ruby](#ruby)
 - [rust](#rust)
+- [server](#server)
 - [software](#software)
 - [svelte](#svelte)
 - [terminal](#terminal)
@@ -292,6 +293,10 @@
 
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast
+
+## server 
+
+- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 
 ## software 
 
