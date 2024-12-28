@@ -173,6 +173,7 @@
 
 ## homebrew 
 
+- [blocksds/sdk](https://github.com/blocksds/sdk) - Main BlocksDS SDK repository
 - [htv04/wiilove](https://github.com/htv04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
 
 ## html 
