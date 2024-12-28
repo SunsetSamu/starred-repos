@@ -34,6 +34,7 @@
 
 ## C 
 
+- [blocksds/sdk](https://github.com/blocksds/sdk) - Main BlocksDS SDK repository
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)
 
