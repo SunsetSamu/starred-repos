@@ -56,7 +56,6 @@
 
 ## CSS 
 
-- [SunsetSamu/sunsetsamu.github.io](https://github.com/SunsetSamu/sunsetsamu.github.io) - My own site in the Indie Web, with some little tools for tooling things
 - [themesberg/windows-95-ui-kit](https://github.com/themesberg/windows-95-ui-kit) - 💾   Windows 95 UI Kit made with Bootstrap 4 components
 
 ## Elixir 
@@ -78,6 +77,7 @@
 
 ## Java 
 
+- [Infinicraft-Mod/infinicraft](https://github.com/Infinicraft-Mod/infinicraft) - Minecraft Infinicraft mod
 - [atouu/rekuta](https://github.com/atouu/rekuta) - A simple UTAU voicebank recorder app for android.
 
 ## JavaScript 
@@ -112,7 +112,6 @@
 ## Python 
 
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
-- [Infinicraft-Mod/infinicraft](https://github.com/Infinicraft-Mod/infinicraft) - Minecraft Infinicraft mod
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
 - [cicirello/generate-sitemap](https://github.com/cicirello/generate-sitemap) - Generate an XML sitemap for a GitHub Pages site using GitHub Actions
