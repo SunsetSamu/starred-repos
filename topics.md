@@ -234,6 +234,9 @@
 
 ## others 
 
+- [devkitPro/nds-examples](https://github.com/devkitPro/nds-examples) - Examples for Nintendo DS using devkitARM, calico, libnds, libdvm, maxmod, dswifi
+- [devkitPro/libnds](https://github.com/devkitPro/libnds) - C library for Nintendo DS
+- [devkitPro/maxmod](https://github.com/devkitPro/maxmod) - Nintendo DS & GameBoy Advance Sound System
 - [RinLovesYou/Flipnote-Encoder](https://github.com/RinLovesYou/Flipnote-Encoder) - The Cross-Platform Flipnote Encoder and Signer written in .NET! Available for Windows, Linux and OsX
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
 - [SLMP-Team/SLMP](https://github.com/SLMP-Team/SLMP) - OpenSource GTA: San Andreas Multiplayer based on Lua Language
