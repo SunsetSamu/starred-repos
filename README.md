@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -28,12 +29,18 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
+## Assembly 
+
+- [devkitPro/nds-examples](https://github.com/devkitPro/nds-examples) - Examples for Nintendo DS using devkitARM, calico, libnds, libdvm, maxmod, dswifi
+- [devkitPro/maxmod](https://github.com/devkitPro/maxmod) - Nintendo DS & GameBoy Advance Sound System
+
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## C 
 
+- [devkitPro/libnds](https://github.com/devkitPro/libnds) - C library for Nintendo DS
 - [blocksds/sdk](https://github.com/blocksds/sdk) - Main BlocksDS SDK repository
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)
