@@ -118,6 +118,7 @@
 
 ## Python 
 
+- [2l47/pony.town-antiafk](https://github.com/2l47/pony.town-antiafk) - An anti-AFK script for the game Pony Town and its derivatives.
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
