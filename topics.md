@@ -234,6 +234,7 @@
 
 ## others 
 
+- [2l47/pony.town-antiafk](https://github.com/2l47/pony.town-antiafk) - An anti-AFK script for the game Pony Town and its derivatives.
 - [devkitPro/nds-examples](https://github.com/devkitPro/nds-examples) - Examples for Nintendo DS using devkitARM, calico, libnds, libdvm, maxmod, dswifi
 - [devkitPro/libnds](https://github.com/devkitPro/libnds) - C library for Nintendo DS
 - [devkitPro/maxmod](https://github.com/devkitPro/maxmod) - Nintendo DS & GameBoy Advance Sound System
