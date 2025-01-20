@@ -234,6 +234,9 @@
 
 ## others 
 
+- [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
+- [larsenv/discross](https://github.com/larsenv/discross) - A webhook bridge to send messages on Discord through a webpage
+- [ayunami2000/ayunpictojava](https://github.com/ayunami2000/ayunpictojava) - PictoChat web app with a server written in Java!
 - [2l47/pony.town-antiafk](https://github.com/2l47/pony.town-antiafk) - An anti-AFK script for the game Pony Town and its derivatives.
 - [devkitPro/nds-examples](https://github.com/devkitPro/nds-examples) - Examples for Nintendo DS using devkitARM, calico, libnds, libdvm, maxmod, dswifi
 - [devkitPro/libnds](https://github.com/devkitPro/libnds) - C library for Nintendo DS
