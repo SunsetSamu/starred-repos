@@ -52,6 +52,7 @@
 
 ## C++ 
 
+- [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
 - [htv04/wiilove](https://github.com/htv04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
 - [openmultiplayer/open.mp](https://github.com/openmultiplayer/open.mp) - Open Multiplayer, a multiplayer mod fully backwards compatible with SA-MP
 - [EvanatorM/ScuffedMinecraft](https://github.com/EvanatorM/ScuffedMinecraft) - A Minecraft Clone in C++
@@ -84,11 +85,13 @@
 
 ## Java 
 
+- [ayunami2000/ayunpictojava](https://github.com/ayunami2000/ayunpictojava) - PictoChat web app with a server written in Java!
 - [Infinicraft-Mod/infinicraft](https://github.com/Infinicraft-Mod/infinicraft) - Minecraft Infinicraft mod
 - [atouu/rekuta](https://github.com/atouu/rekuta) - A simple UTAU voicebank recorder app for android.
 
 ## JavaScript 
 
+- [larsenv/discross](https://github.com/larsenv/discross) - A webhook bridge to send messages on Discord through a webpage
 - [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - #StandWithUkraine banner and related documents
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons) - System UIcons is an icon library design for systems and products. Use how you want, without attribution.
