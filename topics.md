@@ -13,6 +13,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [chrome](#chrome)
 - [cli](#cli)
 - [css](#css)
 - [deployment](#deployment)
@@ -56,6 +57,7 @@
 - [typescript](#typescript)
 - [virtual-reality](#virtual-reality)
 - [vue](#vue)
+- [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [website](#website)
@@ -103,6 +105,10 @@
 ## c 
 
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
+
+## chrome 
+
+- [tenox7/wrp](https://github.com/tenox7/wrp) - Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
 
 ## cli 
 
@@ -342,6 +348,10 @@
 
 - [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
+
+## web 
+
+- [tenox7/wrp](https://github.com/tenox7/wrp) - Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
 
 ## web-development 
 
