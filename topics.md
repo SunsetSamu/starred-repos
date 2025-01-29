@@ -240,6 +240,7 @@
 
 ## others 
 
+- [xwiimote/xwiimote](https://github.com/xwiimote/xwiimote) - Open Source Nintendo Wii Remote Linux Device Driver
 - [Nixeld/MudaeAutoBot](https://github.com/Nixeld/MudaeAutoBot) - python bot that uses strictly the **Discord API** to Roll,Claim,and Kakera Snipe in Mudae. 5/10/21 project converted over to discum library
 - [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
 - [larsenv/discross](https://github.com/larsenv/discross) - A webhook bridge to send messages on Discord through a webpage
