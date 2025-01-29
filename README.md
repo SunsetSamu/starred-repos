@@ -40,6 +40,7 @@
 
 ## C 
 
+- [xwiimote/xwiimote](https://github.com/xwiimote/xwiimote) - Open Source Nintendo Wii Remote Linux Device Driver
 - [devkitPro/libnds](https://github.com/devkitPro/libnds) - C library for Nintendo DS
 - [blocksds/sdk](https://github.com/blocksds/sdk) - Main BlocksDS SDK repository
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
