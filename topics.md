@@ -33,6 +33,7 @@
 - [homebrew](#homebrew)
 - [html](#html)
 - [javascript](#javascript)
+- [jekyll](#jekyll)
 - [jquery](#jquery)
 - [kotlin](#kotlin)
 - [linux](#linux)
@@ -201,6 +202,10 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
 
+## jekyll 
+
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
+
 ## jquery 
 
 - [themesberg/windows-95-ui-kit](https://github.com/themesberg/windows-95-ui-kit) - 💾   Windows 95 UI Kit made with Bootstrap 4 components
@@ -248,6 +253,9 @@
 
 ## others 
 
+- [facelesstech/dsi_dsixl_2ds_usb_c_charger_port](https://github.com/facelesstech/dsi_dsixl_2ds_usb_c_charger_port) - dsi_dsixl_2ds_usb_c_charger_port
+- [Epicpkmn11/fake-08](https://github.com/Epicpkmn11/fake-08) - A Pico-8 player/emulator for console homebrew
+- [iProgramMC/CelesteNES](https://github.com/iProgramMC/CelesteNES) - A demake of a game about climbing a mountain.
 - [xwiimote/xwiimote](https://github.com/xwiimote/xwiimote) - Open Source Nintendo Wii Remote Linux Device Driver
 - [Nixeld/MudaeAutoBot](https://github.com/Nixeld/MudaeAutoBot) - python bot that uses strictly the **Discord API** to Roll,Claim,and Kakera Snipe in Mudae. 5/10/21 project converted over to discum library
 - [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
@@ -272,7 +280,6 @@
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
 - [Devsfy/wiregui](https://github.com/Devsfy/wiregui) - A graphical user interface for wireguard (client-side) for linux and windows
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [LittleBigPlanetHome/LittleBigPlanetHome](https://github.com/LittleBigPlanetHome/LittleBigPlanetHome) - The semi-official open-source repository of the LBP fan game LittleBigPlanet Home.
 - [Nomkid/littlebiglogic](https://github.com/Nomkid/littlebiglogic) - Knowledgebase of LittleBigPlanet logic-related things.
 - [jackcaver/PLGarage](https://github.com/jackcaver/PLGarage) - Open-source server software for LittleBigPlanet Karting and ModNation Racers.
