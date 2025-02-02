@@ -31,6 +31,7 @@
 
 ## Assembly 
 
+- [iProgramMC/CelesteNES](https://github.com/iProgramMC/CelesteNES) - A demake of a game about climbing a mountain.
 - [devkitPro/nds-examples](https://github.com/devkitPro/nds-examples) - Examples for Nintendo DS using devkitARM, calico, libnds, libdvm, maxmod, dswifi
 - [devkitPro/maxmod](https://github.com/devkitPro/maxmod) - Nintendo DS & GameBoy Advance Sound System
 
@@ -55,6 +56,7 @@
 
 ## C++ 
 
+- [Epicpkmn11/fake-08](https://github.com/Epicpkmn11/fake-08) - A Pico-8 player/emulator for console homebrew
 - [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
 - [htv04/wiilove](https://github.com/htv04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
 - [openmultiplayer/open.mp](https://github.com/openmultiplayer/open.mp) - Open Multiplayer, a multiplayer mod fully backwards compatible with SA-MP
@@ -114,6 +116,7 @@
 
 ## Others 
 
+- [facelesstech/dsi_dsixl_2ds_usb_c_charger_port](https://github.com/facelesstech/dsi_dsixl_2ds_usb_c_charger_port) - dsi_dsixl_2ds_usb_c_charger_port
 - [RinLovesYou/Flipnote-Encoder](https://github.com/RinLovesYou/Flipnote-Encoder) - The Cross-Platform Flipnote Encoder and Signer written in .NET! Available for Windows, Linux and OsX
 - [Nomkid/littlebiglogic](https://github.com/Nomkid/littlebiglogic) - Knowledgebase of LittleBigPlanet logic-related things.
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
