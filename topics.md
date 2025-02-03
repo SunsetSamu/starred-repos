@@ -204,7 +204,7 @@
 
 ## jekyll 
 
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for personal, portfolio-based websites; forked from mmistakes/minimal-mistakes
 
 ## jquery 
 
@@ -296,7 +296,7 @@
 - [daisyUniverse/WTFNONPL](https://github.com/daisyUniverse/WTFNONPL) - DO WHAT THE FUCK YOU WANT TO EXCEPT USE NFTS PUBLIC LICENSE
 - [milosworks/ClubPenguinClient](https://github.com/milosworks/ClubPenguinClient) - Custom club penguin client, user-friendly and modifcable for all private servers
 - [solero/houdini](https://github.com/solero/houdini) - A Club Penguin private server written in Python 3
-- [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.
+- [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on almost 30 years of Windows.
 - [EyeOdin/Pigment.O](https://github.com/EyeOdin/Pigment.O) - Krita - Plugin - Color Picker and Mixer
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
