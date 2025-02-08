@@ -77,6 +77,7 @@
 
 ## GLSL 
 
+- [Reckobot/Rudimentary](https://github.com/Reckobot/Rudimentary) - A PS1 Styled Minecraft Shader.
 - [LittleBigPlanetHome/LittleBigPlanetHome](https://github.com/LittleBigPlanetHome/LittleBigPlanetHome) - The semi-official open-source repository of the LBP fan game LittleBigPlanet Home.
 
 ## Go 
