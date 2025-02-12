@@ -177,6 +177,7 @@
 
 ## TypeScript 
 
+- [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - mii creator app
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [deathau/csv-obsidian](https://github.com/deathau/csv-obsidian) - Edit CSV Files in Obsidian
