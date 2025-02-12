@@ -361,6 +361,7 @@
 
 ## typescript 
 
+- [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - mii creator app
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
 
