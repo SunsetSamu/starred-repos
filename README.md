@@ -92,6 +92,7 @@
 
 ## Java 
 
+- [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric / (Neo)Forge mod to expertly edit your books with rich formatting options and page utilities
 - [ayunami2000/ayunpictojava](https://github.com/ayunami2000/ayunpictojava) - PictoChat web app with a server written in Java!
 - [Infinicraft-Mod/infinicraft](https://github.com/Infinicraft-Mod/infinicraft) - Minecraft Infinicraft mod
 - [atouu/rekuta](https://github.com/atouu/rekuta) - A simple UTAU voicebank recorder app for android.
