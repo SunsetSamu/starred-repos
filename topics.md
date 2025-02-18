@@ -243,6 +243,7 @@
 
 ## minecraft 
 
+- [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric / (Neo)Forge mod to expertly edit your books with rich formatting options and page utilities
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 
 ## music 
