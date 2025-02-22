@@ -259,6 +259,8 @@
 
 ## others 
 
+- [julif/visual_novel](https://github.com/julif/visual_novel) - https://julif.github.io/visual_novel/roja/index.html
+- [julif/wiki](https://github.com/julif/wiki) - 
 - [Reckobot/Rudimentary](https://github.com/Reckobot/Rudimentary) - A PS1 Styled Minecraft Shader.
 - [facelesstech/dsi_dsixl_2ds_usb_c_charger_port](https://github.com/facelesstech/dsi_dsixl_2ds_usb_c_charger_port) - dsi_dsixl_2ds_usb_c_charger_port
 - [Epicpkmn11/fake-08](https://github.com/Epicpkmn11/fake-08) - A Pico-8 player/emulator for console homebrew
