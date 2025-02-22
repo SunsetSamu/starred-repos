@@ -15,6 +15,7 @@
 - [GLSL](#glsl)
 - [Go](#go)
 - [HLSL](#hlsl)
+- [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
@@ -90,6 +91,10 @@
 
 - [GarrettGunnell/AcerolaFX](https://github.com/GarrettGunnell/AcerolaFX) - A suite of GShade shaders for Final Fantasy XIV
 
+## HTML 
+
+- [julif/wiki](https://github.com/julif/wiki) - 
+
 ## Java 
 
 - [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric / (Neo)Forge mod to expertly edit your books with rich formatting options and page utilities
@@ -99,6 +104,7 @@
 
 ## JavaScript 
 
+- [julif/visual_novel](https://github.com/julif/visual_novel) - https://julif.github.io/visual_novel/roja/index.html
 - [larsenv/discross](https://github.com/larsenv/discross) - A webhook bridge to send messages on Discord through a webpage
 - [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - #StandWithUkraine banner and related documents
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for personal, portfolio-based websites; forked from mmistakes/minimal-mistakes
