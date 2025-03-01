@@ -8,6 +8,7 @@
 - [android](#android)
 - [api](#api)
 - [atom](#atom)
+- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bootstrap](#bootstrap)
@@ -83,6 +84,10 @@
 
 - [jekyll/jekyll-feed](https://github.com/jekyll/jekyll-feed) - :memo: A Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll posts
 
+## automation 
+
+- [sean1832/pinterest-dl](https://github.com/sean1832/pinterest-dl) - An unofficial Pinterest image downloader
+
 ## awesome 
 
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
@@ -116,6 +121,7 @@
 
 ## cli 
 
+- [sean1832/pinterest-dl](https://github.com/sean1832/pinterest-dl) - An unofficial Pinterest image downloader
 - [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 
@@ -260,6 +266,8 @@
 
 ## others 
 
+- [cuibonobo/nds_vscode_template](https://github.com/cuibonobo/nds_vscode_template) - A template for developing Nintendo DS homebrew in Visual Studio Code.
+- [RunOrVeith/pinterestDL](https://github.com/RunOrVeith/pinterestDL) - Fast, parallel downloading of pinterest pages, such as boards and search results. Filter by size, only download new pins that were not downloaded before, and more.
 - [julif/visual_novel](https://github.com/julif/visual_novel) - https://julif.github.io/visual_novel/roja/index.html
 - [julif/wiki](https://github.com/julif/wiki) - 
 - [Reckobot/Rudimentary](https://github.com/Reckobot/Rudimentary) - A PS1 Styled Minecraft Shader.
