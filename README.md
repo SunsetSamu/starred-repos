@@ -20,6 +20,7 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Others](#others)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -122,6 +123,10 @@
 - [SLMP-Team/SLMP](https://github.com/SLMP-Team/SLMP) - OpenSource GTA: San Andreas Multiplayer based on Lua Language
 - [jdriselvato/NDS-Homebrew-Development](https://github.com/jdriselvato/NDS-Homebrew-Development) - My research for developing on the Nintendo DS
 
+## Makefile 
+
+- [cuibonobo/nds_vscode_template](https://github.com/cuibonobo/nds_vscode_template) - A template for developing Nintendo DS homebrew in Visual Studio Code.
+
 ## Others 
 
 - [facelesstech/dsi_dsixl_2ds_usb_c_charger_port](https://github.com/facelesstech/dsi_dsixl_2ds_usb_c_charger_port) - dsi_dsixl_2ds_usb_c_charger_port
@@ -136,6 +141,8 @@
 
 ## Python 
 
+- [sean1832/pinterest-dl](https://github.com/sean1832/pinterest-dl) - An unofficial Pinterest image downloader
+- [RunOrVeith/pinterestDL](https://github.com/RunOrVeith/pinterestDL) - Fast, parallel downloading of pinterest pages, such as boards and search results. Filter by size, only download new pins that were not downloaded before, and more.
 - [Merubokkusu/Discord-S.C.U.M](https://github.com/Merubokkusu/Discord-S.C.U.M) - A Discord API Wrapper for Userbots/Selfbots written in Python.
 - [Nixeld/MudaeAutoBot](https://github.com/Nixeld/MudaeAutoBot) - python bot that uses strictly the **Discord API** to Roll,Claim,and Kakera Snipe in Mudae. 5/10/21 project converted over to discum library
 - [2l47/pony.town-antiafk](https://github.com/2l47/pony.town-antiafk) - An anti-AFK script for the game Pony Town and its derivatives.
