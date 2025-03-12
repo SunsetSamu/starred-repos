@@ -267,7 +267,7 @@
 ## others 
 
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
+- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [larsenv/WiiShopliftChannel](https://github.com/larsenv/WiiShopliftChannel) - Download any Wii Shop title on your Wii
 - [cuibonobo/nds_vscode_template](https://github.com/cuibonobo/nds_vscode_template) - A template for developing Nintendo DS homebrew in Visual Studio Code.
 - [RunOrVeith/pinterestDL](https://github.com/RunOrVeith/pinterestDL) - Fast, parallel downloading of pinterest pages, such as boards and search results. Filter by size, only download new pins that were not downloaded before, and more.
