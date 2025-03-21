@@ -173,6 +173,7 @@
 
 ## Rust 
 
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal
