@@ -19,6 +19,7 @@
 - [cpp](#cpp)
 - [css](#css)
 - [deployment](#deployment)
+- [development](#development)
 - [discord](#discord)
 - [docker](#docker)
 - [electron](#electron)
@@ -140,6 +141,10 @@
 ## deployment 
 
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
+
+## development 
+
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## discord 
 
