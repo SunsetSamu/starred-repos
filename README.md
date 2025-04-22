@@ -127,6 +127,7 @@
 
 ## Lua 
 
+- [Haynster/Balatro-DS-Port](https://github.com/Haynster/Balatro-DS-Port) - A port of Balatro to the Nintendo DS
 - [SLMP-Team/SLMP](https://github.com/SLMP-Team/SLMP) - OpenSource GTA: San Andreas Multiplayer based on Lua Language
 - [jdriselvato/NDS-Homebrew-Development](https://github.com/jdriselvato/NDS-Homebrew-Development) - My research for developing on the Nintendo DS
 
@@ -150,7 +151,7 @@
 
 ## Python 
 
-- [andrew001s/SandyCore](https://github.com/andrew001s/SandyCore) - Proyecto que desarrolla una VTuber interactiva impulsada por inteligencia artificial, capaz de responder en tiempo real a los espectadores, hablar con una voz clonada, y automatizar tareas de moderaci
+- [andrew001s/SandyCore](https://github.com/andrew001s/SandyCore) - Proyecto que desarrolla el motor de una VTuber interactiva impulsada por inteligencia artificial, capaz de responder en tiempo real a los espectadores, hablar con una voz clonada, y automatizar tareas
 - [sean1832/pinterest-dl](https://github.com/sean1832/pinterest-dl) - An unofficial Pinterest image downloader
 - [RunOrVeith/pinterestDL](https://github.com/RunOrVeith/pinterestDL) - Fast, parallel downloading of pinterest pages, such as boards and search results. Filter by size, only download new pins that were not downloaded before, and more.
 - [Merubokkusu/Discord-S.C.U.M](https://github.com/Merubokkusu/Discord-S.C.U.M) - A Discord API Wrapper for Userbots/Selfbots written in Python.
@@ -189,6 +190,7 @@
 
 ## SCSS 
 
+- [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 - [bennettfeely/ztext](https://github.com/bennettfeely/ztext) - Easy to implement, 3D typography for the web. Works with every font.
 
 ## Shell 
