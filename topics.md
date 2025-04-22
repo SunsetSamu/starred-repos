@@ -278,7 +278,8 @@
 
 ## others 
 
-- [andrew001s/SandyCore](https://github.com/andrew001s/SandyCore) - Proyecto que desarrolla una VTuber interactiva impulsada por inteligencia artificial, capaz de responder en tiempo real a los espectadores, hablar con una voz clonada, y automatizar tareas de moderaci
+- [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
+- [Haynster/Balatro-DS-Port](https://github.com/Haynster/Balatro-DS-Port) - A port of Balatro to the Nintendo DS
 - [C3RV1/UndertaleNDS](https://github.com/C3RV1/UndertaleNDS) - Undertale port for Nintendo DS (src only, no copyrighted material).
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
@@ -342,6 +343,7 @@
 
 ## python 
 
+- [andrew001s/SandyCore](https://github.com/andrew001s/SandyCore) - Proyecto que desarrolla el motor de una VTuber interactiva impulsada por inteligencia artificial, capaz de responder en tiempo real a los espectadores, hablar con una voz clonada, y automatizar tareas
 - [Merubokkusu/Discord-S.C.U.M](https://github.com/Merubokkusu/Discord-S.C.U.M) - A Discord API Wrapper for Userbots/Selfbots written in Python.
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
