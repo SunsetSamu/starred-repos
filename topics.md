@@ -47,6 +47,7 @@
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [music](#music)
+- [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [others](#others)
 - [powershell](#powershell)
@@ -271,6 +272,10 @@
 - [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
+
+## obsidian-plugin 
+
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 
 ## open-source 
 
