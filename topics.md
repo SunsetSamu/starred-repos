@@ -283,6 +283,7 @@
 
 ## others 
 
+- [OpenToolKit/CompressPDF](https://github.com/OpenToolKit/CompressPDF) - Fast in-browser PDF compressor
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
 - [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 - [Haynster/Balatro-DS-Port](https://github.com/Haynster/Balatro-DS-Port) - A port of Balatro to the Nintendo DS
