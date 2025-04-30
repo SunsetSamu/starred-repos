@@ -100,6 +100,7 @@
 
 ## HTML 
 
+- [OpenToolKit/CompressPDF](https://github.com/OpenToolKit/CompressPDF) - Fast in-browser PDF compressor
 - [julif/wiki](https://github.com/julif/wiki) - 
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 
