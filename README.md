@@ -209,6 +209,8 @@
 
 ## TypeScript 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+- [robertpiosik/gemini-coder](https://github.com/robertpiosik/gemini-coder) - Non-agentic 100% free & open source coding tool for AI-assisted programming.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - mii creator app
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
