@@ -310,6 +310,7 @@
 
 ## others 
 
+- [AlestackOverglow/doubleclick-fixer](https://github.com/AlestackOverglow/doubleclick-fixer) - Fix left mouse double click that occur due to mechanical wear
 - [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Non-agentic 100% free & open source coding tool for AI-assisted programming.
 - [joshxviii/animalese-typing-desktop](https://github.com/joshxviii/animalese-typing-desktop) - A desktop version of my Animalese Typing Web Extension!
 - [joshxviii/animalese-typing](https://github.com/joshxviii/animalese-typing) - Animalese Typing extension for Chrome and Firefox
