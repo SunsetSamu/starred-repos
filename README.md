@@ -54,6 +54,7 @@
 
 ## C# # 
 
+- [AlestackOverglow/doubleclick-fixer](https://github.com/AlestackOverglow/doubleclick-fixer) - Fix left mouse double click that occur due to mechanical wear
 - [jackcaver/PLGarage](https://github.com/jackcaver/PLGarage) - Open-source server software for LittleBigPlanet Karting and ModNation Racers.
 - [LBPUnion/ProjectLighthouse](https://github.com/LBPUnion/ProjectLighthouse) - Project Lighthouse is a clean-room, open-source custom server for LittleBigPlanet.
 
