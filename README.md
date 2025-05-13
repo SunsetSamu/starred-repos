@@ -54,7 +54,6 @@
 
 ## C# # 
 
-- [AlestackOverglow/doubleclick-fixer](https://github.com/AlestackOverglow/doubleclick-fixer) - Fix left mouse double click that occur due to mechanical wear
 - [jackcaver/PLGarage](https://github.com/jackcaver/PLGarage) - Open-source server software for LittleBigPlanet Karting and ModNation Racers.
 - [LBPUnion/ProjectLighthouse](https://github.com/LBPUnion/ProjectLighthouse) - Project Lighthouse is a clean-room, open-source custom server for LittleBigPlanet.
 
@@ -210,7 +209,6 @@
 
 ## TypeScript 
 
-- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Non-agentic 100% free & open source coding tool for AI-assisted programming.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - mii creator app
