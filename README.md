@@ -113,6 +113,7 @@
 
 ## JavaScript 
 
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [joshxviii/animalese-typing-desktop](https://github.com/joshxviii/animalese-typing-desktop) - A desktop version of my Animalese Typing Web Extension!
 - [joshxviii/animalese-typing](https://github.com/joshxviii/animalese-typing) - Animalese Typing extension for Chrome and Firefox
 - [julif/visual_novel](https://github.com/julif/visual_novel) - https://julif.github.io/visual_novel/roja/index.html
@@ -140,6 +141,7 @@
 
 ## Others 
 
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [larsenv/WiiShopliftChannel](https://github.com/larsenv/WiiShopliftChannel) - Download any Wii Shop title on your Wii
