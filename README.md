@@ -142,6 +142,7 @@
 
 ## Others 
 
+- [Elaina69/Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - Illegal Model ngl 🐧🐧
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
@@ -212,7 +213,7 @@
 
 ## TypeScript 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Non-agentic 100% free & open source coding tool for AI-assisted programming.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize any web chat with your code
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - mii creator app
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
@@ -224,6 +225,7 @@
 
 ## Vue 
 
+- [YesSteveModel/YSM-Utils-Plugins](https://github.com/YesSteveModel/YSM-Utils-Plugins) - 
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
 
 
