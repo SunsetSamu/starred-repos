@@ -55,6 +55,7 @@
 - [music](#music)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
+- [openai](#openai)
 - [others](#others)
 - [powershell](#powershell)
 - [python](#python)
@@ -294,6 +295,7 @@
 
 ## minecraft 
 
+- [Elaina69/Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - Yes Steve Models I collected from various source, free to use. Please join YSM discord server if have any question:
 - [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric / (Neo)Forge mod to expertly edit your books with rich formatting options and page utilities
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 
@@ -312,10 +314,13 @@
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
+## openai 
+
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize chatbots and apply responses with a single click
+
 ## others 
 
 - [YesSteveModel/YSM-Utils-Plugins](https://github.com/YesSteveModel/YSM-Utils-Plugins) - 
-- [Elaina69/Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - Illegal Model ngl 🐧🐧
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
