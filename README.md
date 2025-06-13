@@ -44,6 +44,7 @@
 
 ## C 
 
+- [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba) - 
 - [Epicpkmn11/dsidl](https://github.com/Epicpkmn11/dsidl) - A simple QR based file downloader for the DSi
 - [Epicpkmn11/dsi-camera](https://github.com/Epicpkmn11/dsi-camera) - A simple example homebrew app that can use the DSi's cameras
 - [xwiimote/xwiimote](https://github.com/xwiimote/xwiimote) - Open Source Nintendo Wii Remote Linux Device Driver
