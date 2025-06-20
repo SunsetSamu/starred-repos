@@ -328,7 +328,7 @@
 - [joshxviii/animalese-typing-desktop](https://github.com/joshxviii/animalese-typing-desktop) - A desktop version of my Animalese Typing Web Extension!
 - [joshxviii/animalese-typing](https://github.com/joshxviii/animalese-typing) - Animalese Typing extension for Chrome and Firefox
 - [OpenToolKit/CompressPDF](https://github.com/OpenToolKit/CompressPDF) - Fast in-browser PDF compressor
-- [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
+- [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 - [Haynster/Balatro-DS-Port](https://github.com/Haynster/Balatro-DS-Port) - A port of Balatro to the Nintendo DS
 - [C3RV1/UndertaleNDS](https://github.com/C3RV1/UndertaleNDS) - Undertale port for Nintendo DS (src only, no copyrighted material).
