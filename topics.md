@@ -82,7 +82,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize chatbots and apply responses with a single click. Powerful API tools.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding for the rest of us
 
 ## android 
 
@@ -134,7 +134,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize chatbots and apply responses with a single click. Powerful API tools.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding for the rest of us
 
 ## chrome 
 
@@ -274,7 +274,7 @@
 
 ## llm 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize chatbots and apply responses with a single click. Powerful API tools.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding for the rest of us
 
 ## lua 
 
@@ -316,7 +316,7 @@
 
 ## openai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize chatbots and apply responses with a single click. Powerful API tools.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding for the rest of us
 
 ## others 
 
