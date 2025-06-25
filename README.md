@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [C3RV1/UndertaleNDS](https://github.com/C3RV1/UndertaleNDS) - Undertale port for Nintendo DS (src only, no copyrighted material).
 - [Epicpkmn11/fake-08](https://github.com/Epicpkmn11/fake-08) - A Pico-8 player/emulator for console homebrew
@@ -143,6 +144,7 @@
 
 ## Others 
 
+- [ansilove/BlockZone](https://github.com/ansilove/BlockZone) - A faithful recreation of the original DOS font.
 - [Elaina69/Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - Yes Steve Models I collected from various source, free to use. Please join YSM discord server if have any question:
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
@@ -215,7 +217,7 @@
 
 ## TypeScript 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding for the rest of us
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize you favorite chatbot and apply response with a single click
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - mii creator app
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
