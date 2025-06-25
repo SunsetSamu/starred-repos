@@ -27,6 +27,7 @@
 - [docker](#docker)
 - [electron](#electron)
 - [elixir](#elixir)
+- [font](#font)
 - [framework](#framework)
 - [game-development](#game-development)
 - [gamedev](#gamedev)
@@ -57,6 +58,7 @@
 - [open-source](#open-source)
 - [openai](#openai)
 - [others](#others)
+- [pixel-art](#pixel-art)
 - [powershell](#powershell)
 - [python](#python)
 - [react](#react)
@@ -82,7 +84,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding for the rest of us
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize you favorite chatbot and apply response with a single click
 
 ## android 
 
@@ -134,7 +136,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding for the rest of us
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize you favorite chatbot and apply response with a single click
 
 ## chrome 
 
@@ -148,6 +150,7 @@
 
 ## cpp 
 
+- [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [Epicpkmn11/dsidl](https://github.com/Epicpkmn11/dsidl) - A simple QR based file downloader for the DSi
 - [Epicpkmn11/dsi-camera](https://github.com/Epicpkmn11/dsi-camera) - A simple example homebrew app that can use the DSi's cameras
 
@@ -184,6 +187,10 @@
 ## elixir 
 
 - [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
+
+## font 
+
+- [ansilove/BlockZone](https://github.com/ansilove/BlockZone) - A faithful recreation of the original DOS font.
 
 ## framework 
 
@@ -274,7 +281,7 @@
 
 ## llm 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding for the rest of us
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize you favorite chatbot and apply response with a single click
 
 ## lua 
 
@@ -316,7 +323,7 @@
 
 ## openai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding for the rest of us
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize you favorite chatbot and apply response with a single click
 
 ## others 
 
@@ -387,6 +394,10 @@
 - [EyeOdin/Pigment.O](https://github.com/EyeOdin/Pigment.O) - Krita - Plugin - Color Picker and Mixer
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual and multiplatform extensible offline player
+
+## pixel-art 
+
+- [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 
 ## powershell 
 
