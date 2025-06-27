@@ -84,7 +84,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot and apply response with a single click
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot, then apply the response with a single click
 
 ## android 
 
@@ -136,7 +136,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot and apply response with a single click
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot, then apply the response with a single click
 
 ## chrome 
 
@@ -281,7 +281,7 @@
 
 ## llm 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot and apply response with a single click
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot, then apply the response with a single click
 
 ## lua 
 
@@ -323,7 +323,7 @@
 
 ## openai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot and apply response with a single click
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot, then apply the response with a single click
 
 ## others 
 
