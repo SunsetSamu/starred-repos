@@ -327,6 +327,7 @@
 
 ## others 
 
+- [natapol2547/paintsystem](https://github.com/natapol2547/paintsystem) - 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba) - 
 - [YesSteveModel/YSM-Utils-Plugins](https://github.com/YesSteveModel/YSM-Utils-Plugins) - 
