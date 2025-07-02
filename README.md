@@ -163,6 +163,7 @@
 
 ## Python 
 
+- [ilayezra/Festival-Extractor](https://github.com/ilayezra/Festival-Extractor) - download and extract fortnite festival songs into stems
 - [natapol2547/paintsystem](https://github.com/natapol2547/paintsystem) - 
 - [andrew001s/SandyCore](https://github.com/andrew001s/SandyCore) - Proyecto que desarrolla el motor de una VTuber interactiva impulsada por inteligencia artificial, capaz de responder en tiempo real a los espectadores, hablar con una voz clonada, y automatizar tareas
 - [sean1832/pinterest-dl](https://github.com/sean1832/pinterest-dl) - An unofficial Pinterest image downloader
