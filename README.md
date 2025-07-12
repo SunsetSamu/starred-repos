@@ -134,6 +134,7 @@
 
 ## Lua 
 
+- [ShipMaster1/Balatro-DS-Port](https://github.com/ShipMaster1/Balatro-DS-Port) - A port of Balatro to the Nintendo DS
 - [Haynster/Balatro-DS-Port](https://github.com/Haynster/Balatro-DS-Port) - A port of Balatro to the Nintendo DS
 - [SLMP-Team/SLMP](https://github.com/SLMP-Team/SLMP) - OpenSource GTA: San Andreas Multiplayer based on Lua Language
 - [jdriselvato/NDS-Homebrew-Development](https://github.com/jdriselvato/NDS-Homebrew-Development) - My research for developing on the Nintendo DS
@@ -222,7 +223,7 @@
 ## TypeScript 
 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot, then apply the response with a single click
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect your editor with 10+ chatbots
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - mii creator app
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
