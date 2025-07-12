@@ -84,7 +84,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot, then apply the response with a single click
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect your editor with 10+ chatbots
 
 ## android 
 
@@ -136,7 +136,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot, then apply the response with a single click
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect your editor with 10+ chatbots
 
 ## chrome 
 
@@ -282,7 +282,7 @@
 
 ## llm 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot, then apply the response with a single click
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect your editor with 10+ chatbots
 
 ## lua 
 
@@ -324,10 +324,11 @@
 
 ## openai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Initialize your favorite chatbot, then apply the response with a single click
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect your editor with 10+ chatbots
 
 ## others 
 
+- [ShipMaster1/Balatro-DS-Port](https://github.com/ShipMaster1/Balatro-DS-Port) - A port of Balatro to the Nintendo DS
 - [ilayezra/Festival-Extractor](https://github.com/ilayezra/Festival-Extractor) - download and extract fortnite festival songs into stems
 - [Better-than-Adventure/bta-download-repo](https://github.com/Better-than-Adventure/bta-download-repo) - 
 - [natapol2547/paintsystem](https://github.com/natapol2547/paintsystem) - 
