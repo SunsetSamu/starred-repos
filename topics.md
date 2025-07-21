@@ -60,6 +60,7 @@
 - [others](#others)
 - [pixel-art](#pixel-art)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [python](#python)
 - [react](#react)
 - [ruby](#ruby)
@@ -409,6 +410,10 @@
 ## powershell 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
+## privacy 
+
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 
 ## python 
 
