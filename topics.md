@@ -85,7 +85,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code to 15+ chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI coding for the rest of us
 
 ## android 
 
@@ -137,7 +137,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code to 15+ chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI coding for the rest of us
 
 ## chrome 
 
@@ -283,7 +283,7 @@
 
 ## llm 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code to 15+ chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI coding for the rest of us
 
 ## lua 
 
@@ -325,10 +325,11 @@
 
 ## openai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code to 15+ chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI coding for the rest of us
 
 ## others 
 
+- [evan-ciao/emod-ds](https://github.com/evan-ciao/emod-ds) - 
 - [Nettakrim/Signed-Paintings](https://github.com/Nettakrim/Signed-Paintings) - 
 - [ShipMaster1/Balatro-DS-Port](https://github.com/ShipMaster1/Balatro-DS-Port) - A port of Balatro to the Nintendo DS
 - [ilayezra/Festival-Extractor](https://github.com/ilayezra/Festival-Extractor) - download and extract fortnite festival songs into stems
