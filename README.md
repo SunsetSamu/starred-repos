@@ -44,6 +44,7 @@
 
 ## C 
 
+- [Hydr8gon/sm64](https://github.com/Hydr8gon/sm64) - A port of Super Mario 64 for the DSi
 - [Hydr8gon/Project-DS](https://github.com/Hydr8gon/Project-DS) - Project DIVA for the DS!
 - [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba) - 
 - [Epicpkmn11/dsidl](https://github.com/Epicpkmn11/dsidl) - A simple QR based file downloader for the DSi
