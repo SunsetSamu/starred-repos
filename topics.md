@@ -256,6 +256,7 @@
 
 ## javascript 
 
+- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
 
