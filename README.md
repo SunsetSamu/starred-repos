@@ -176,7 +176,7 @@
 - [ilayezra/Festival-Extractor](https://github.com/ilayezra/Festival-Extractor) - download and extract fortnite festival songs into stems
 - [natapol2547/paintsystem](https://github.com/natapol2547/paintsystem) - 
 - [andrew001s/SandyCore](https://github.com/andrew001s/SandyCore) - Proyecto que desarrolla el motor de una VTuber interactiva impulsada por inteligencia artificial, capaz de responder en tiempo real a los espectadores, hablar con una voz clonada, y automatizar tareas
-- [sean1832/pinterest-dl](https://github.com/sean1832/pinterest-dl) - An unofficial Pinterest image downloader
+- [sean1832/pinterest-dl](https://github.com/sean1832/pinterest-dl) - An unofficial Pinterest media downloader
 - [RunOrVeith/pinterestDL](https://github.com/RunOrVeith/pinterestDL) - Fast, parallel downloading of pinterest pages, such as boards and search results. Filter by size, only download new pins that were not downloaded before, and more.
 - [Merubokkusu/Discord-S.C.U.M](https://github.com/Merubokkusu/Discord-S.C.U.M) - A Discord API Wrapper for Userbots/Selfbots written in Python.
 - [Nixeld/MudaeAutoBot](https://github.com/Nixeld/MudaeAutoBot) - python bot that uses strictly the **Discord API** to Roll,Claim,and Kakera Snipe in Mudae. 5/10/21 project converted over to discum library
@@ -231,7 +231,7 @@
 ## TypeScript 
 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI coding for everyone
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI pair programming with free chatbots
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - mii creator app
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
