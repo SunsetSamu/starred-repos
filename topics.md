@@ -47,7 +47,6 @@
 - [jquery](#jquery)
 - [kotlin](#kotlin)
 - [linux](#linux)
-- [llm](#llm)
 - [lua](#lua)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -56,7 +55,6 @@
 - [music](#music)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
-- [openai](#openai)
 - [others](#others)
 - [pixel-art](#pixel-art)
 - [powershell](#powershell)
@@ -85,7 +83,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI pair programming with free chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The 100% free AI pair programming
 
 ## android 
 
@@ -137,7 +135,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI pair programming with free chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The 100% free AI pair programming
 
 ## chrome 
 
@@ -283,10 +281,6 @@
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [Vhonowslend/StreamFX-Public](https://github.com/Vhonowslend/StreamFX-Public) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
 
-## llm 
-
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI pair programming with free chatbots
-
 ## lua 
 
 - [htv04/wiilove](https://github.com/htv04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
@@ -324,10 +318,6 @@
 ## open-source 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-## openai 
-
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI pair programming with free chatbots
 
 ## others 
 
