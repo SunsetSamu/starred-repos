@@ -83,7 +83,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI pair programming
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The free vibe coding tool
 
 ## android 
 
@@ -135,7 +135,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI pair programming
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The free vibe coding tool
 
 ## chrome 
 
