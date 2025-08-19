@@ -57,6 +57,7 @@
 
 ## C# # 
 
+- [not-nullptr/Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
 - [jackcaver/PLGarage](https://github.com/jackcaver/PLGarage) - Open-source server software for LittleBigPlanet Karting and ModNation Racers.
 - [LBPUnion/ProjectLighthouse](https://github.com/LBPUnion/ProjectLighthouse) - Project Lighthouse is a clean-room, open-source custom server for LittleBigPlanet.
 
@@ -231,7 +232,7 @@
 ## TypeScript 
 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The free vibe coding tool
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The free vibe coding
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - mii creator app
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
