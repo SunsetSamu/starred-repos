@@ -83,7 +83,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The free vibe coding tool
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The free vibe coding
 
 ## android 
 
@@ -135,7 +135,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The free vibe coding tool
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The free vibe coding
 
 ## chrome 
 
@@ -321,6 +321,7 @@
 
 ## others 
 
+- [not-nullptr/Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
 - [Hydr8gon/sm64](https://github.com/Hydr8gon/sm64) - A port of Super Mario 64 for the DSi
 - [megamixfedition/mmfe](https://github.com/megamixfedition/mmfe) - This page will have MMFE releases/updates. This mod is about AFT/FT and MEGA39s songs ported into Project DIVA F! It will be available on PS3/RPCS3 & PS VITA!
 - [Hydr8gon/Project-DS](https://github.com/Hydr8gon/Project-DS) - Project DIVA for the DS!
