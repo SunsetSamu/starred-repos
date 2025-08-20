@@ -53,6 +53,7 @@
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [music](#music)
+- [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [others](#others)
@@ -311,6 +312,10 @@
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
 
+## obsidian-md 
+
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+
 ## obsidian-plugin 
 
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
@@ -397,7 +402,6 @@
 - [solero/houdini](https://github.com/solero/houdini) - A Club Penguin private server written in Python 3
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on almost 30 years of Windows.
 - [EyeOdin/Pigment.O](https://github.com/EyeOdin/Pigment.O) - Krita - Plugin - Color Picker and Mixer
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
 
 ## pixel-art 
