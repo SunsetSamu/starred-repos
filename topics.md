@@ -400,7 +400,7 @@
 - [daisyUniverse/WTFNONPL](https://github.com/daisyUniverse/WTFNONPL) - DO WHAT THE FUCK YOU WANT TO EXCEPT USE NFTS PUBLIC LICENSE
 - [milosworks/ClubPenguinClient](https://github.com/milosworks/ClubPenguinClient) - Custom club penguin client, user-friendly and modifcable for all private servers
 - [solero/houdini](https://github.com/solero/houdini) - A Club Penguin private server written in Python 3
-- [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on almost 30 years of Windows.
+- [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on 30 years of Windows versions.
 - [EyeOdin/Pigment.O](https://github.com/EyeOdin/Pigment.O) - Krita - Plugin - Color Picker and Mixer
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
 
