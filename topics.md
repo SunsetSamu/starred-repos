@@ -27,6 +27,7 @@
 - [docker](#docker)
 - [electron](#electron)
 - [elixir](#elixir)
+- [emulator](#emulator)
 - [font](#font)
 - [framework](#framework)
 - [game-development](#game-development)
@@ -41,6 +42,7 @@
 - [html](#html)
 - [image-processing](#image-processing)
 - [instagram](#instagram)
+- [ios](#ios)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
@@ -190,6 +192,10 @@
 
 - [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
 
+## emulator 
+
+- [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Apple Silicon devices emulated on QEMU, currently only iPhone 11.
+
 ## font 
 
 - [ansilove/BlockZone](https://github.com/ansilove/BlockZone) - A faithful recreation of the original DOS font.
@@ -253,6 +259,10 @@
 ## instagram 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
+## ios 
+
+- [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Apple Silicon devices emulated on QEMU, currently only iPhone 11.
 
 ## javascript 
 
