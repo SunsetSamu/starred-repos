@@ -44,6 +44,7 @@
 
 ## C 
 
+- [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Apple Silicon devices emulated on QEMU, currently only iPhone 11.
 - [Hydr8gon/sm64](https://github.com/Hydr8gon/sm64) - A port of Super Mario 64 for the DSi
 - [Hydr8gon/Project-DS](https://github.com/Hydr8gon/Project-DS) - Project DIVA for the DS!
 - [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba) - 
