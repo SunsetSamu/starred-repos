@@ -86,7 +86,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - No-cost AI coding for everyone
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI pair programming with 15+ free chatbots
 
 ## android 
 
@@ -138,7 +138,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - No-cost AI coding for everyone
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI pair programming with 15+ free chatbots
 
 ## chrome 
 
