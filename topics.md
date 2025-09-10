@@ -86,7 +86,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI pair programming with ChatGPT, Gemini, Claude, and more
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI coding with ChatGPT, Gemini, Claude, and more
 
 ## android 
 
@@ -138,7 +138,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI pair programming with ChatGPT, Gemini, Claude, and more
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI coding with ChatGPT, Gemini, Claude, and more
 
 ## chrome 
 
