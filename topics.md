@@ -86,7 +86,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect your editor with any chatbot
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with ChatGPT, Gemini, Claude, and 10+ more
 
 ## android 
 
@@ -138,7 +138,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect your editor with any chatbot
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with ChatGPT, Gemini, Claude, and 10+ more
 
 ## chrome 
 
