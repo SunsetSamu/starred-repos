@@ -160,7 +160,6 @@
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
-- [larsenv/WiiShopliftChannel](https://github.com/larsenv/WiiShopliftChannel) - Download any Wii Shop title on your Wii
 - [facelesstech/dsi_dsixl_2ds_usb_c_charger_port](https://github.com/facelesstech/dsi_dsixl_2ds_usb_c_charger_port) - dsi_dsixl_2ds_usb_c_charger_port
 - [RinLovesYou/Flipnote-Encoder](https://github.com/RinLovesYou/Flipnote-Encoder) - The Cross-Platform Flipnote Encoder and Signer written in .NET! Available for Windows, Linux and OsX
 - [Nomkid/littlebiglogic](https://github.com/Nomkid/littlebiglogic) - Knowledgebase of LittleBigPlanet logic-related things.
@@ -234,7 +233,7 @@
 
 - [spessasus/SpessaFont](https://github.com/spessasus/SpessaFont) - Online SoundFont/DLS Editor
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with ChatGPT, Gemini, Claude, and 10+ more
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC connects VS Code with chatbots like ChatGPT, Gemini or Claude. Saves you money and time.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - mii creator app
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
