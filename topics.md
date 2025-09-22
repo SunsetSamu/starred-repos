@@ -87,7 +87,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC connects VS Code with free chatbots like ChatGPT, Gemini or Claude. Saves you money and time.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC connects VS Code with ChatGPT, Gemini, DeepSeek, and 10+ other free chatbots. Saves you money and time.
 
 ## android 
 
@@ -139,7 +139,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC connects VS Code with free chatbots like ChatGPT, Gemini or Claude. Saves you money and time.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC connects VS Code with ChatGPT, Gemini, DeepSeek, and 10+ other free chatbots. Saves you money and time.
 
 ## chrome 
 
