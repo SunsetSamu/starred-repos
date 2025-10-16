@@ -315,7 +315,7 @@
 
 ## minecraft 
 
-- [Elaina69/Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - Yes Steve Models I collected from various source, free to use. Please join YSM discord server if have any question:
+- [Elaina69/Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - YSM models I collected from various sources, free to use. Please join YSM discord server if have any question:
 - [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric / (Neo)Forge mod to expertly edit your books with rich formatting options and page utilities
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 
