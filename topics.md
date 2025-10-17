@@ -88,7 +88,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - No-cost AI coding in free chatbots for VS Code, Cursor, and others
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - No-cost AI coding in free chatbots for VS Code, Cursor and Windsurf
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - No-cost AI coding in free chatbots for VS Code, Cursor, and others
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - No-cost AI coding in free chatbots for VS Code, Cursor and Windsurf
 
 ## chrome 
 
@@ -493,7 +493,7 @@
 
 ## typescript 
 
-- [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - Mii Creator
+- [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - Mii Creator - *OLD* OSS Version
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
 
