@@ -88,7 +88,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Unlimited AI coding in free chatbots for VS Code, Cursor and Windsurf. The best privacy, accuracy and speed.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Unlimited AI coding in free chatbots
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Unlimited AI coding in free chatbots for VS Code, Cursor and Windsurf. The best privacy, accuracy and speed.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Unlimited AI coding in free chatbots
 
 ## chrome 
 
