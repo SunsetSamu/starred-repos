@@ -44,7 +44,7 @@
 
 ## C 
 
-- [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Apple Silicon devices emulated on QEMU, currently only iPhone 11.
+- [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Emulating Apple Silicon devices.
 - [Hydr8gon/sm64](https://github.com/Hydr8gon/sm64) - A port of Super Mario 64 for the DSi
 - [Hydr8gon/Project-DS](https://github.com/Hydr8gon/Project-DS) - Project DIVA for the DS!
 - [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba) - 
@@ -234,7 +234,7 @@
 
 - [spessasus/SpessaFont](https://github.com/spessasus/SpessaFont) - Online SoundFont/DLS Editor
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Unlimited AI coding in free chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Agent-free AI pair programming for VS Code, Cursor, and other forks. Master context to guide the model to the responses you expect—without tool calls.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - Mii Creator - *OLD* OSS Version
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
