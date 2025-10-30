@@ -88,7 +88,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Agent-free AI pair programming for VS Code, Cursor, and other forks. Master context to guide the model to the responses you expect—without tool calls.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Agent-free AI pair programming for production-grade code. Steer the model with hand-picked context for fast and accurate edits with simple instructions.
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Agent-free AI pair programming for VS Code, Cursor, and other forks. Master context to guide the model to the responses you expect—without tool calls.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Agent-free AI pair programming for production-grade code. Steer the model with hand-picked context for fast and accurate edits with simple instructions.
 
 ## chrome 
 
