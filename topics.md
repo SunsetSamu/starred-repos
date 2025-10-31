@@ -88,7 +88,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Agent-free AI pair programming for production-grade code. Steer the model with hand-picked context for fast and accurate edits with simple instructions.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI pair programming for production-grade code. Select context as you go for pro accuracy and game-changing speed.
 
 ## android 
 
@@ -140,7 +140,7 @@
 
 ## chatgpt 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Agent-free AI pair programming for production-grade code. Steer the model with hand-picked context for fast and accurate edits with simple instructions.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI pair programming for production-grade code. Select context as you go for pro accuracy and game-changing speed.
 
 ## chrome 
 
