@@ -52,7 +52,7 @@
 - [Epicpkmn11/dsi-camera](https://github.com/Epicpkmn11/dsi-camera) - A simple example homebrew app that can use the DSi's cameras
 - [xwiimote/xwiimote](https://github.com/xwiimote/xwiimote) - Open Source Nintendo Wii Remote Linux Device Driver
 - [devkitPro/libnds](https://github.com/devkitPro/libnds) - C library for Nintendo DS
-- [blocksds/sdk](https://github.com/blocksds/sdk) - Main BlocksDS SDK repository
+- [blocksds/sdk](https://github.com/blocksds/sdk) - Free and Open Source SDK to develop applications for the Nintendo DS and DSi.
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)
 
@@ -91,7 +91,7 @@
 
 ## GDScript 
 
-- [MudkipWorld/PNGTuber-Remix](https://github.com/MudkipWorld/PNGTuber-Remix) - An Open-source PNGTubing app based off PNGTuber+ :D
+- [MudkipWorld/PNGTuber-Remix](https://github.com/MudkipWorld/PNGTuber-Remix) - An Open-source PNGTubing app :D
 
 ## GLSL 
 
