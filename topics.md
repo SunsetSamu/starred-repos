@@ -36,6 +36,7 @@
 - [go](#go)
 - [godot](#godot)
 - [golang](#golang)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
 - [html](#html)
@@ -224,16 +225,19 @@
 
 ## godot 
 
-- [MudkipWorld/PNGTuber-Remix](https://github.com/MudkipWorld/PNGTuber-Remix) - An Open-source PNGTubing app based off PNGTuber+ :D
+- [MudkipWorld/PNGTuber-Remix](https://github.com/MudkipWorld/PNGTuber-Remix) - An Open-source PNGTubing app :D
 
 ## golang 
 
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 
+## gui 
+
+- [Devsfy/wiregui](https://github.com/Devsfy/wiregui) - A graphical user interface for wireguard (client-side) for linux and windows
+
 ## hacktoberfest 
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [Epicpkmn11/dsidl](https://github.com/Epicpkmn11/dsidl) - A simple QR based file downloader for the DSi
 - [openmultiplayer/open.mp](https://github.com/openmultiplayer/open.mp) - Open Multiplayer, a multiplayer mod fully backwards compatible with SA-MP
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
@@ -241,7 +245,6 @@
 
 ## homebrew 
 
-- [blocksds/sdk](https://github.com/blocksds/sdk) - Main BlocksDS SDK repository
 - [htv04/wiilove](https://github.com/htv04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
 
 ## html 
@@ -384,6 +387,7 @@
 - [devkitPro/nds-examples](https://github.com/devkitPro/nds-examples) - Examples for Nintendo DS using devkitARM, calico, libnds, libdvm, maxmod, dswifi
 - [devkitPro/libnds](https://github.com/devkitPro/libnds) - C library for Nintendo DS
 - [devkitPro/maxmod](https://github.com/devkitPro/maxmod) - Nintendo DS & GameBoy Advance Sound System
+- [blocksds/sdk](https://github.com/blocksds/sdk) - Free and Open Source SDK to develop applications for the Nintendo DS and DSi.
 - [RinLovesYou/Flipnote-Encoder](https://github.com/RinLovesYou/Flipnote-Encoder) - The Cross-Platform Flipnote Encoder and Signer written in .NET! Available for Windows, Linux and OsX
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
 - [SLMP-Team/SLMP](https://github.com/SLMP-Team/SLMP) - OpenSource GTA: San Andreas Multiplayer based on Lua Language
@@ -397,7 +401,6 @@
 - [zii/netscape](https://github.com/zii/netscape) - Mirror of Netscape 5.0 source code
 - [deathau/csv-obsidian](https://github.com/deathau/csv-obsidian) - Edit CSV Files in Obsidian
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
-- [Devsfy/wiregui](https://github.com/Devsfy/wiregui) - A graphical user interface for wireguard (client-side) for linux and windows
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
 - [LittleBigPlanetHome/LittleBigPlanetHome](https://github.com/LittleBigPlanetHome/LittleBigPlanetHome) - The semi-official open-source repository of the LBP fan game LittleBigPlanet Home.
 - [Nomkid/littlebiglogic](https://github.com/Nomkid/littlebiglogic) - Knowledgebase of LittleBigPlanet logic-related things.
