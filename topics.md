@@ -62,6 +62,7 @@
 - [open-source](#open-source)
 - [others](#others)
 - [pixel-art](#pixel-art)
+- [portfolio-website](#portfolio-website)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [python](#python)
@@ -89,7 +90,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding without agents. Guide the model to production-grade code with context, not complex instructions.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI Coding for Professional Development. Guide the model to production-grade code with context, not complex instructions.
 
 ## android 
 
@@ -430,6 +431,10 @@
 ## pixel-art 
 
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
+
+## portfolio-website 
+
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 
 ## powershell 
 
