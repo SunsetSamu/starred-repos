@@ -90,7 +90,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Superfast AI coding for VS Code, Cursor, and others. Truly independent, free, open-source, and privacy-first.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Superfast AI coding for VS Code, Cursor, and others. Free, open-source, and privacy-first.
 
 ## android 
 
