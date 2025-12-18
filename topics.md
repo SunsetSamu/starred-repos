@@ -75,6 +75,7 @@
 - [terminal](#terminal)
 - [termux](#termux)
 - [text-to-speech](#text-to-speech)
+- [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ui](#ui)
@@ -495,6 +496,11 @@
 ## text-to-speech 
 
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
+
+## tui 
+
+- [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 
 ## twitter 
 
