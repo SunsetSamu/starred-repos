@@ -117,7 +117,6 @@
 
 - [OpenToolKit/CompressPDF](https://github.com/OpenToolKit/CompressPDF) - Fast in-browser PDF compressor
 - [julif/wiki](https://github.com/julif/wiki) - 
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 
 ## Java 
 
@@ -225,6 +224,7 @@
 ## SCSS 
 
 - [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [bennettfeely/ztext](https://github.com/bennettfeely/ztext) - Easy to implement, 3D typography for the web. Works with every font.
 
 ## Shell 
