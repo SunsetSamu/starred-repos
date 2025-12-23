@@ -91,7 +91,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Context-first AI coding for VS Code, Cursor, and others. Free, open-source, and privacy-focused.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Context-first AI coding extension for VS Code, Cursor, and others. Free, open-source, and privacy-focused.
 
 ## android 
 
