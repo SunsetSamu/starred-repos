@@ -11,7 +11,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [EJS](#ejs)
 - [Elixir](#elixir)
 - [GDScript](#gdscript)
 - [GLSL](#glsl)
@@ -86,10 +85,6 @@
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [themesberg/windows-95-ui-kit](https://github.com/themesberg/windows-95-ui-kit) - 💾   Windows 95 UI Kit made with Bootstrap 4 components
 
-## EJS 
-
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
-
 ## Elixir 
 
 - [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
@@ -115,6 +110,7 @@
 
 ## HTML 
 
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 - [OpenToolKit/CompressPDF](https://github.com/OpenToolKit/CompressPDF) - Fast in-browser PDF compressor
 - [julif/wiki](https://github.com/julif/wiki) - 
 
@@ -240,7 +236,7 @@
 
 - [spessasus/SpessaFont](https://github.com/spessasus/SpessaFont) - Online SoundFont/DLS Editor
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Context-first AI coding for VS Code, Cursor, and others. Free, open-source, and privacy-focused.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Context-first AI coding extension for VS Code, Cursor, and others. Free, open-source, and privacy-focused.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - Mii Creator - *OLD* OSS Version
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
