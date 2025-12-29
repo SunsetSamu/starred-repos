@@ -91,7 +91,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC is a context-first AI coding extension with first-class support for prompt caching. Great for your wallet—and for the planet 🌱, too.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Autofill for chatbots
 
 ## android 
 
