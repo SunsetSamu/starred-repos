@@ -91,7 +91,7 @@
 
 ## ai 
 
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC makes it easy to construct coding prompts for chatbots and integrate edits in all formats.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC makes it easy to construct coding prompts for chatbots and integrate suggested edits.
 
 ## android 
 
@@ -351,7 +351,7 @@
 ## others 
 
 - [codingMASTER398/kasaneteto](https://github.com/codingMASTER398/kasaneteto) - 
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial)
 - [spessasus/SpessaFont](https://github.com/spessasus/SpessaFont) - Online SoundFont/DLS Editor
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [not-nullptr/Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
@@ -423,12 +423,12 @@
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [CowCoding0/Gartic-Phone-Draw-Bot](https://github.com/CowCoding0/Gartic-Phone-Draw-Bot) - Drawing Bot for Gartic Phone
-- [Windows200000/TwitchDropsMiner-updated](https://github.com/Windows200000/TwitchDropsMiner-updated) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
+- [Windows200000/TwitchDropsMiner-updated](https://github.com/Windows200000/TwitchDropsMiner-updated) - This was an app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [daisyUniverse/WTFNONPL](https://github.com/daisyUniverse/WTFNONPL) - DO WHAT THE FUCK YOU WANT TO EXCEPT USE NFTS PUBLIC LICENSE
 - [milosworks/ClubPenguinClient](https://github.com/milosworks/ClubPenguinClient) - Custom club penguin client, user-friendly and modifcable for all private servers
 - [solero/houdini](https://github.com/solero/houdini) - A Club Penguin private server written in Python 3
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on 30 years of Windows versions.
-- [EyeOdin/Pigment.O](https://github.com/EyeOdin/Pigment.O) - Krita - Plugin - Color Picker and Mixer
+- [EyeOdin/Pigment.O](https://github.com/EyeOdin/Pigment.O) - Krita - Plugin - Color Picker, Mixer and Sampler
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
 
 ## pixel-art 
