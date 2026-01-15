@@ -110,7 +110,7 @@
 
 ## HTML 
 
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — A customizable Cloudflare error page generator (unofficial)
 - [OpenToolKit/CompressPDF](https://github.com/OpenToolKit/CompressPDF) - Fast in-browser PDF compressor
 - [julif/wiki](https://github.com/julif/wiki) - 
 
