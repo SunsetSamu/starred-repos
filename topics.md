@@ -347,6 +347,7 @@
 
 ## others 
 
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 - [codingMASTER398/kasaneteto](https://github.com/codingMASTER398/kasaneteto) - 
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [spessasus/SpessaFont](https://github.com/spessasus/SpessaFont) - Online SoundFont/DLS Editor
