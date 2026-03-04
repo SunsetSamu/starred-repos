@@ -27,6 +27,7 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [emulator](#emulator)
+- [fastapi](#fastapi)
 - [font](#font)
 - [framework](#framework)
 - [game-development](#game-development)
@@ -196,6 +197,10 @@
 ## emulator 
 
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
+
+## fastapi 
+
+- [andrew001s/SandyCore](https://github.com/andrew001s/SandyCore) - Proyecto que desarrolla el motor de una VTuber interactiva impulsada por inteligencia artificial, capaz de responder en tiempo real a los espectadores, hablar con una voz clonada, y automatizar tareas
 
 ## font 
 
