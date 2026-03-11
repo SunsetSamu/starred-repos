@@ -82,6 +82,7 @@
 
 ## CSS 
 
+- [Aevstiel/amethyst](https://github.com/Aevstiel/amethyst) - Dotfiles for my Amethyst rice.
 - [diinki/diinki-retrofuture](https://github.com/diinki/diinki-retrofuture) - A retro-futuristic linux rice | Sway OR Hyprland
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [themesberg/windows-95-ui-kit](https://github.com/themesberg/windows-95-ui-kit) - 💾   Windows 95 UI Kit made with Bootstrap 4 components
@@ -125,6 +126,8 @@
 
 ## JavaScript 
 
+- [nick-redwill/LiveLockScreen](https://github.com/nick-redwill/LiveLockScreen) - Live lock screen extension for GNOME
+- [SeraphimeZelel/rion-ricing](https://github.com/SeraphimeZelel/rion-ricing) - My dotfiles to make GNOME look and feel like Hyprland. A personal project to cope with the never-released Arknights Endfield.
 - [codingMASTER398/kasaneteto](https://github.com/codingMASTER398/kasaneteto) - 
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
