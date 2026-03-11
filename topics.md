@@ -24,6 +24,7 @@
 - [development](#development)
 - [discord](#discord)
 - [docker](#docker)
+- [dotfiles](#dotfiles)
 - [electron](#electron)
 - [elixir](#elixir)
 - [emulator](#emulator)
@@ -186,6 +187,10 @@
 
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 
+## dotfiles 
+
+- [SeraphimeZelel/rion-ricing](https://github.com/SeraphimeZelel/rion-ricing) - My dotfiles to make GNOME look and feel like Hyprland. A personal project to cope with the never-released Arknights Endfield.
+
 ## electron 
 
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
@@ -297,6 +302,7 @@
 
 ## linux 
 
+- [SeraphimeZelel/rion-ricing](https://github.com/SeraphimeZelel/rion-ricing) - My dotfiles to make GNOME look and feel like Hyprland. A personal project to cope with the never-released Arknights Endfield.
 - [diinki/diinki-retrofuture](https://github.com/diinki/diinki-retrofuture) - A retro-futuristic linux rice | Sway OR Hyprland
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
@@ -352,6 +358,8 @@
 
 ## others 
 
+- [nick-redwill/LiveLockScreen](https://github.com/nick-redwill/LiveLockScreen) - Live lock screen extension for GNOME
+- [Aevstiel/amethyst](https://github.com/Aevstiel/amethyst) - Dotfiles for my Amethyst rice.
 - [BubblePlayzTHEREAL/discord-3ds-homebrew](https://github.com/BubblePlayzTHEREAL/discord-3ds-homebrew) - 
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [codingMASTER398/kasaneteto](https://github.com/codingMASTER398/kasaneteto) - 
