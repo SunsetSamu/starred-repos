@@ -126,6 +126,7 @@
 
 ## JavaScript 
 
+- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [nick-redwill/LiveLockScreen](https://github.com/nick-redwill/LiveLockScreen) - Live lock screen extension for GNOME
 - [SeraphimeZelel/rion-ricing](https://github.com/SeraphimeZelel/rion-ricing) - My dotfiles to make GNOME look and feel like Hyprland. A personal project to cope with the never-released Arknights Endfield.
 - [codingMASTER398/kasaneteto](https://github.com/codingMASTER398/kasaneteto) - 
