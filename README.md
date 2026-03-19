@@ -59,6 +59,7 @@
 
 ## C# # 
 
+- [Kuuuube/Monitor_Toggle](https://github.com/Kuuuube/Monitor_Toggle) - Bindings for switching between monitors.
 - [not-nullptr/Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
 - [jackcaver/PLGarage](https://github.com/jackcaver/PLGarage) - Open-source server software for LittleBigPlanet Karting and ModNation Racers.
 - [LBPUnion/ProjectLighthouse](https://github.com/LBPUnion/ProjectLighthouse) - Project Lighthouse is a clean-room, open-source custom server for LittleBigPlanet.
