@@ -358,6 +358,7 @@
 
 ## others 
 
+- [Kuuuube/Monitor_Toggle](https://github.com/Kuuuube/Monitor_Toggle) - Bindings for switching between monitors.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [nick-redwill/LiveLockScreen](https://github.com/nick-redwill/LiveLockScreen) - Live lock screen extension for GNOME
 - [Aevstiel/amethyst](https://github.com/Aevstiel/amethyst) - Dotfiles for my Amethyst rice.
