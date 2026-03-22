@@ -360,7 +360,7 @@
 
 - [Kuuuube/Monitor_Toggle](https://github.com/Kuuuube/Monitor_Toggle) - Bindings for switching between monitors.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-- [nick-redwill/LiveLockScreen](https://github.com/nick-redwill/LiveLockScreen) - Live lock screen extension for GNOME
+- [nick-redwill/LiveLockScreen](https://github.com/nick-redwill/LiveLockScreen) - A GNOME Shell extension that lets you set any video as your lock screen background
 - [Aevstiel/amethyst](https://github.com/Aevstiel/amethyst) - Dotfiles for my Amethyst rice.
 - [BubblePlayzTHEREAL/discord-3ds-homebrew](https://github.com/BubblePlayzTHEREAL/discord-3ds-homebrew) - 
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
