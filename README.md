@@ -44,6 +44,7 @@
 
 ## C 
 
+- [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
 - [BubblePlayzTHEREAL/discord-3ds-homebrew](https://github.com/BubblePlayzTHEREAL/discord-3ds-homebrew) - 
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
 - [Hydr8gon/sm64](https://github.com/Hydr8gon/sm64) - A port of Super Mario 64 for the DSi
@@ -180,7 +181,7 @@
 
 ## Python 
 
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [vivinano/MudaeAutoBot](https://github.com/vivinano/MudaeAutoBot) - python bot that uses strictly the **Discord API** to Roll,Claim,and Kakera Snipe in Mudae. 5/10/21 project converted over to discum library
 - [ilayezra/Festival-Extractor](https://github.com/ilayezra/Festival-Extractor) - download and extract fortnite festival songs into stems
