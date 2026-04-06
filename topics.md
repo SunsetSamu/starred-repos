@@ -365,7 +365,7 @@
 - [nick-redwill/LiveLockScreen](https://github.com/nick-redwill/LiveLockScreen) - A GNOME Shell extension that lets you set any video as your lock screen background
 - [Aevstiel/amethyst](https://github.com/Aevstiel/amethyst) - Dotfiles for my Amethyst rice.
 - [BubblePlayzTHEREAL/discord-3ds-homebrew](https://github.com/BubblePlayzTHEREAL/discord-3ds-homebrew) - 
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [codingMASTER398/kasaneteto](https://github.com/codingMASTER398/kasaneteto) - 
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [spessasus/SpessaFont](https://github.com/spessasus/SpessaFont) - Online SoundFont/DLS Editor
