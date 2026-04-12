@@ -241,7 +241,6 @@
 
 ## TypeScript 
 
-- [LCE-Hub/LCE-Emerald-Launcher](https://github.com/LCE-Hub/LCE-Emerald-Launcher) - FOSS cross-platform launcher for Minecraft Legacy Console Edition
 - [spessasus/SpessaFont](https://github.com/spessasus/SpessaFont) - Online SoundFont/DLS Editor
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with free chatbots
