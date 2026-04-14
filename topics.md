@@ -358,6 +358,7 @@
 
 ## others 
 
+- [hyperballic/Windows-Sounds-for-Plasma](https://github.com/hyperballic/Windows-Sounds-for-Plasma) - 
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
 - [Nettakrim/Signed-Paintings](https://github.com/Nettakrim/Signed-Paintings) - 
 - [Kuuuube/Monitor_Toggle](https://github.com/Kuuuube/Monitor_Toggle) - Bindings for switching between monitors.
