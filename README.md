@@ -100,7 +100,6 @@
 ## GLSL 
 
 - [Reckobot/Rudimentary](https://github.com/Reckobot/Rudimentary) - A PS1 Styled Minecraft Shader.
-- [LittleBigPlanetHome/LittleBigPlanetHome](https://github.com/LittleBigPlanetHome/LittleBigPlanetHome) - The semi-official open-source repository of the LBP fan game LittleBigPlanet Home.
 
 ## Go 
 
@@ -242,6 +241,7 @@
 
 ## TypeScript 
 
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [spessasus/SpessaFont](https://github.com/spessasus/SpessaFont) - Online SoundFont/DLS Editor
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with free chatbots
