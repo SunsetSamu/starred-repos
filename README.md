@@ -161,6 +161,7 @@
 
 ## Others 
 
+- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [hyperballic/Windows-Sounds-for-Plasma](https://github.com/hyperballic/Windows-Sounds-for-Plasma) - 
 - [megamixfedition/mmfe](https://github.com/megamixfedition/mmfe) - This page will have MMFE releases/updates. This mod is about AFT/FT and MEGA39s songs ported into Project DIVA F! It will be available on PS3/RPCS3 & PS VITA!
 - [Better-than-Adventure/bta-download-repo](https://github.com/Better-than-Adventure/bta-download-repo) - 
@@ -232,6 +233,7 @@
 
 ## Shell 
 
+- [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - my scripts!
 - [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
 - [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE) - 
 
