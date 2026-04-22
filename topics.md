@@ -116,6 +116,7 @@
 
 ## awesome 
 
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
@@ -124,6 +125,7 @@
 
 ## awesome-list 
 
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
@@ -149,6 +151,7 @@
 
 ## cli 
 
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [sean1832/pinterest-dl](https://github.com/sean1832/pinterest-dl) - An unofficial Pinterest media downloader
 - [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal.
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
@@ -395,7 +398,7 @@
 - [Better-than-Adventure/bta-download-repo](https://github.com/Better-than-Adventure/bta-download-repo) - 
 - [natapol2547/paintsystem](https://github.com/natapol2547/paintsystem) - 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - 
+- [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - A demake of Balatro for the GBA
 - [YesSteveModel/YSM-Utils-Plugins](https://github.com/YesSteveModel/YSM-Utils-Plugins) - 
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
