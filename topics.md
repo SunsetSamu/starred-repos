@@ -142,6 +142,7 @@
 
 ## c 
 
+- [Sycorlax/Meowdo](https://github.com/Sycorlax/Meowdo) - meowdo is a cute, keyboard-driven todo list with a cat sidekick. It lives in your terminal, supports tags, search, pinning, and remembers everything in ~/.local/share/meowdo/todos.txt
 - [Epicpkmn11/dsidl](https://github.com/Epicpkmn11/dsidl) - A simple QR based file downloader for the DSi
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 
@@ -151,6 +152,7 @@
 
 ## cli 
 
+- [Sycorlax/Meowdo](https://github.com/Sycorlax/Meowdo) - meowdo is a cute, keyboard-driven todo list with a cat sidekick. It lives in your terminal, supports tags, search, pinning, and remembers everything in ~/.local/share/meowdo/todos.txt
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [sean1832/pinterest-dl](https://github.com/sean1832/pinterest-dl) - An unofficial Pinterest media downloader
 - [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal.
@@ -310,6 +312,7 @@
 
 ## linux 
 
+- [Sycorlax/Meowdo](https://github.com/Sycorlax/Meowdo) - meowdo is a cute, keyboard-driven todo list with a cat sidekick. It lives in your terminal, supports tags, search, pinning, and remembers everything in ~/.local/share/meowdo/todos.txt
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [SeraphimeZelel/rion-ricing](https://github.com/SeraphimeZelel/rion-ricing) - My dotfiles to make GNOME look and feel like Hyprland. A personal project to cope with the never-released Arknights Endfield.
 - [diinki/diinki-retrofuture](https://github.com/diinki/diinki-retrofuture) - A retro-futuristic linux rice | Sway OR Hyprland
@@ -376,6 +379,7 @@
 
 ## others 
 
+- [Boopath1/Recon-Search-Assistant](https://github.com/Boopath1/Recon-Search-Assistant) - 
 - [BreadOnPenguins/scripts](https://github.com/BreadOnPenguins/scripts) - my scripts!
 - [hyperballic/Windows-Sounds-for-Plasma](https://github.com/hyperballic/Windows-Sounds-for-Plasma) - 
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
@@ -519,6 +523,7 @@
 
 ## terminal 
 
+- [Sycorlax/Meowdo](https://github.com/Sycorlax/Meowdo) - meowdo is a cute, keyboard-driven todo list with a cat sidekick. It lives in your terminal, supports tags, search, pinning, and remembers everything in ~/.local/share/meowdo/todos.txt
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
