@@ -44,6 +44,7 @@
 
 ## C 
 
+- [Sycorlax/Meowdo](https://github.com/Sycorlax/Meowdo) - meowdo is a cute, keyboard-driven todo list with a cat sidekick. It lives in your terminal, supports tags, search, pinning, and remembers everything in ~/.local/share/meowdo/todos.txt
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
 - [BubblePlayzTHEREAL/discord-3ds-homebrew](https://github.com/BubblePlayzTHEREAL/discord-3ds-homebrew) - 
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
@@ -113,6 +114,7 @@
 
 ## HTML 
 
+- [Boopath1/Recon-Search-Assistant](https://github.com/Boopath1/Recon-Search-Assistant) - 
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [OpenToolKit/CompressPDF](https://github.com/OpenToolKit/CompressPDF) - Fast in-browser PDF compressor
 - [julif/wiki](https://github.com/julif/wiki) - 
