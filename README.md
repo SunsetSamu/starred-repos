@@ -68,6 +68,7 @@
 
 ## C++ 
 
+- [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [evan-ciao/emod-ds](https://github.com/evan-ciao/emod-ds) - 
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
