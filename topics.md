@@ -18,6 +18,7 @@
 - [cli](#cli)
 - [command-line](#command-line)
 - [cpp](#cpp)
+- [cryptography](#cryptography)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [deployment](#deployment)
@@ -171,6 +172,10 @@
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [Epicpkmn11/dsidl](https://github.com/Epicpkmn11/dsidl) - A simple QR based file downloader for the DSi
 - [Epicpkmn11/dsi-camera](https://github.com/Epicpkmn11/dsi-camera) - A simple example homebrew app that can use the DSi's cameras
+
+## cryptography 
+
+- [vxfemboy/purrcrypt](https://github.com/vxfemboy/purrcrypt) - A fur-ociously secure encryption tool that encodes your secrets as adorable cat and dog sounds, using real elliptic curve cryptography with a playful disguise.
 
 ## css 
 
@@ -392,6 +397,7 @@
 
 ## others 
 
+- [LCE-Hub/LCE-Emerald-Launcher](https://github.com/LCE-Hub/LCE-Emerald-Launcher) - The LCE Emerald Launcher
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [Kowgan/ksp_cheat_sheets](https://github.com/Kowgan/ksp_cheat_sheets) - A collection of helpful cheat sheets for the game Kerbal Space Program by SQUAD
 - [Boopath1/Recon-Search-Assistant](https://github.com/Boopath1/Recon-Search-Assistant) - 
@@ -497,6 +503,7 @@
 
 ## privacy 
 
+- [vxfemboy/purrcrypt](https://github.com/vxfemboy/purrcrypt) - A fur-ociously secure encryption tool that encodes your secrets as adorable cat and dog sounds, using real elliptic curve cryptography with a playful disguise.
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 
 ## python 
