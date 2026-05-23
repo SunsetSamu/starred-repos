@@ -401,6 +401,7 @@
 
 ## others 
 
+- [ryzendew/Linux-Affinity-Installer](https://github.com/ryzendew/Linux-Affinity-Installer) - A repository that helps users get affinity software working on GNU/Linux 🐧
 - [LCE-Hub/LCE-Emerald-Launcher](https://github.com/LCE-Hub/LCE-Emerald-Launcher) - The LCE Emerald Launcher
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [Kowgan/ksp_cheat_sheets](https://github.com/Kowgan/ksp_cheat_sheets) - A collection of helpful cheat sheets for the game Kerbal Space Program by SQUAD
@@ -432,7 +433,7 @@
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI coding in chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Token-efficient AI coding
 - [joshxviii/animalese-typing-desktop](https://github.com/joshxviii/animalese-typing-desktop) - A desktop version of my Animalese Typing Web Extension!
 - [joshxviii/animalese-typing](https://github.com/joshxviii/animalese-typing) - Animalese Typing extension for Chrome and Firefox
 - [OpenToolKit/CompressPDF](https://github.com/OpenToolKit/CompressPDF) - Fast in-browser PDF compressor
