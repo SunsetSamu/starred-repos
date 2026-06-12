@@ -11,6 +11,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [bash](#bash)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
@@ -76,6 +77,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [server](#server)
+- [shell](#shell)
 - [software](#software)
 - [svelte](#svelte)
 - [terminal](#terminal)
@@ -135,6 +137,10 @@
 - [ItzAshOffcl/awesome-webdev-resources](https://github.com/ItzAshOffcl/awesome-webdev-resources) - A curated list of useful websites and resources for web developers
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [fluteds/starred](https://github.com/fluteds/starred) - All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow and sorted in the project's language order
+
+## bash 
+
+- [FelipeFMA/BadAppleBash](https://github.com/FelipeFMA/BadAppleBash) - A bash script that runs Bad Apple on the terminal.
 
 ## bootstrap 
 
@@ -542,6 +548,10 @@
 
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 
+## shell 
+
+- [FelipeFMA/BadAppleBash](https://github.com/FelipeFMA/BadAppleBash) - A bash script that runs Bad Apple on the terminal.
+
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -552,6 +562,7 @@
 
 ## terminal 
 
+- [FelipeFMA/BadAppleBash](https://github.com/FelipeFMA/BadAppleBash) - A bash script that runs Bad Apple on the terminal.
 - [Sycorlax/Meowdo](https://github.com/Sycorlax/Meowdo) - meowdo is a cute, keyboard-driven todo list with a cat sidekick. It lives in your terminal, supports tags, search, pinning, and remembers everything in ~/.local/share/meowdo/todos.txt
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [ritiek/piano-rs](https://github.com/ritiek/piano-rs) - A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal.
