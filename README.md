@@ -47,7 +47,7 @@
 - [Sycorlax/Meowdo](https://github.com/Sycorlax/Meowdo) - meowdo is a cute, keyboard-driven todo list with a cat sidekick. It lives in your terminal, supports tags, search, pinning, and remembers everything in ~/.local/share/meowdo/todos.txt
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
 - [BubblePlayzTHEREAL/discord-3ds-homebrew](https://github.com/BubblePlayzTHEREAL/discord-3ds-homebrew) - 
-- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
+- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
 - [Hydr8gon/sm64](https://github.com/Hydr8gon/sm64) - A port of Super Mario 64 for the DSi
 - [Hydr8gon/Project-DS](https://github.com/Hydr8gon/Project-DS) - Project DIVA for the DS!
 - [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - A demake of Balatro for the GBA
