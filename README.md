@@ -117,7 +117,7 @@
 ## HTML 
 
 - [Boopath1/Recon-Search-Assistant](https://github.com/Boopath1/Recon-Search-Assistant) - 
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Error page generator that brings premium downtime experience to your website. (unofficial)
 - [OpenToolKit/CompressPDF](https://github.com/OpenToolKit/CompressPDF) - Fast in-browser PDF compressor
 - [julif/wiki](https://github.com/julif/wiki) - 
 
