@@ -589,7 +589,7 @@
 
 ## typescript 
 
-- [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - Mii Creator - *OLD* OSS Version
+- [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - Mii Creator - *VERY OLD* OSS Version
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
 
@@ -611,7 +611,6 @@
 
 ## vue 
 
-- [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast
 - [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
 
 ## web 
