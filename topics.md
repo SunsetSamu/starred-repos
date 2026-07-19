@@ -369,6 +369,7 @@
 
 ## minecraft 
 
+- [ElyPrismLauncher/Launcher](https://github.com/ElyPrismLauncher/Launcher) - This fork of Prism Launcher adds integrated support for Ely.by accounts.
 - [Elaina69/Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - YSM models I collected from various sources, free to use. Please join YSM discord server if you have any question:
 - [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric / (Neo)Forge mod to expertly edit your books with rich formatting options and page utilities
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
@@ -408,6 +409,8 @@
 
 ## others 
 
+- [Vickerinox/Astronaut](https://github.com/Vickerinox/Astronaut) - A custom DSi "firmware"
+- [njiedev/miituber](https://github.com/njiedev/miituber) - Turn your Mii into a VTuber with webcam head tracking, voice-reactive lip sync, and transparent OBS capture.
 - [ryzendew/Linux-Affinity-Installer](https://github.com/ryzendew/Linux-Affinity-Installer) - A repository that helps users get affinity software working on GNU/Linux 🐧
 - [LCE-Hub/LCE-Emerald-Launcher](https://github.com/LCE-Hub/LCE-Emerald-Launcher) - The LCE Emerald Launcher
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
@@ -653,5 +656,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [SunsetSamu](https://github.com/SunsetSamu) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [suniimartens](https://github.com/suniimartens) has waived all copyright and related or neighboring rights to this work.
 
